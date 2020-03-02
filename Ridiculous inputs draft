@@ -1,0 +1,2890 @@
+
+<header class="header">Input your Email!</header>
+<br> 
+<div class="grclass">
+  <div class="box a">
+    <input name="col-1" type="radio" class="A"/>
+    <label class="A">A</label>
+    <input name="col-1" type="radio" class="B"/>
+    <label class="B">B</label>
+    <input name="col-1" type="radio" class="C"/>
+    <label class="C">C</label>
+    <input name="col-1" type="radio" class="D"/>
+    <label class="D">D</label>
+    <input name="col-1" type="radio" class="E"/>
+    <label class="E">E</label>
+    <input name="col-1" type="radio" class="F"/>
+    <label class="F">F</label>
+    <input name="col-1" type="radio" class="G"/>
+    <label class="G">G</label>
+    <input name="col-1" type="radio" class="H"/>
+    <label class="H">H</label>
+    <input name="col-1" type="radio" class="I"/>
+    <label class="I">I</label>
+    <input name="col-1" type="radio" class="J"/>
+    <label class="J">J</label>
+    <input name="col-1" type="radio" class="K"/>
+    <label class="K">K</label>
+    <input name="col-1" type="radio" class="L"/>
+    <label class="L">L</label>
+    <input name="col-1" type="radio" class="M"/>
+    <label class="M">M</label>
+    <input name="col-1" type="radio" class="N"/>
+    <label class="N">N</label>
+    <input name="col-1" type="radio" class="O"/>
+    <label class="O">O</label>
+    <input name="col-1" type="radio" class="P"/>
+    <label class="P">P</input>
+    <input name="col-1" type="radio" class="Q"/>
+    <label class="Q">Q</label>
+    <input name="col-1" type="radio" class="R"/>
+    <label class="R">R</label>
+    <input name="col-1" type="radio" class="S"/>
+    <label class="S">S</label>
+    <input name="col-1" type="radio" class="T"/>
+    <label class="T">T</label>
+    <input name="col-1" type="radio" class="U"/>
+    <label class="U">U</label>
+    <input name="col-1" type="radio" class="V"/>
+    <label class="V">V</label>
+    <input name="col-1" type="radio" class="W"/>
+    <label class="W">W</label>
+    <input name="col-1" type="radio" class="X"/>
+    <label class="X">X</label>
+    <input name="col-1" type="radio" class="Z"/>
+    <label class="Z">Z</label>
+    <input name="col-1" type="radio" class="a"/>
+    <label class="a">a</label>
+    <input name="col-1" type="radio" class="b"/>
+    <label class="b">b</label>
+    <input name="col-1" type="radio" class="c"/>
+    <label class="c">c</label>
+    <input name="col-1" type="radio" class="d"/>
+    <label class="d">d</label>
+    <input name="col-1" type="radio" class="e"/>
+    <label class="e">e</label>
+    <input name="col-1" type="radio" class="f"/>
+    <label class="f">f</label>
+    <input name="col-1" type="radio" class="g"/>
+    <label class="g">g</label>
+    <input name="col-1" type="radio" class="h"/>
+    <label class="h">h</label>
+    <input name="col-1" type="radio" class="i"/>
+    <label class="i">i</label>
+    <input name="col-1" type="radio" class="j"/>
+    <label class="j">j</label>
+    <input name="col-1" type="radio" class="k"/>
+    <label class="k">k</label>
+    <input name="col-1" type="radio" class="l"/>
+    <label class="l">l</label>
+    <input name="col-1" type="radio" class="m"/>
+    <label class="m">m</label>
+    <input name="col-1" type="radio" class="n"/>
+    <label class="n">n</label>
+    <input name="col-1" type="radio" class="o"/>
+    <label class="o">o</label>
+    <input name="col-1" type="radio" class="p"/>
+    <label class="p">p</input>
+     <input name="col-1" type="radio" class="q"/>
+    <label class="q">q</label>
+    <input name="col-1" type="radio" class="r"/>
+    <label class="r">r</label>
+    <input name="col-1" type="radio" class="s"/>
+    <label class="s">s</label>
+    <input name="col-1" type="radio" class="t"/>
+    <label class="t">t</label>
+    <input name="col-1" type="radio" class="u"/>
+    <label class="u">u</label>
+    <input name="col-1" type="radio" class="v"/>
+    <label class="v">v</label>
+    <input name="col-1" type="radio" class="w"/>
+    <label class="w">w</label>
+    <input name="col-1" type="radio" class="x"/>
+    <label class="x">x</label>
+    <input name="col-1" type="radio" class="z"/>
+    <label class="z">z</label>
+    <input name="col-1" type="radio" class="@"/>
+    <label class="@">@</label>
+    <input name="col-1" type="radio" class="0"/>
+    <label class="0">0</label>
+    <input name="col-1" type="radio" class="1"/>
+    <label class="1">1</label>
+    <input name="col-1" type="radio" class="2"/>
+    <label class="2">2</label>
+    <input name="col-1" type="radio" class="3"/>
+    <label class="3">3</label>
+    <input name="col-1" type="radio" class="4"/>
+    <label class="4">4</label>
+    <input name="col-1" type="radio" class="5"/>
+    <label class="5">5</label>
+    <input name="col-1" type="radio" class="6"/>
+    <label class="6">6</label>
+    <input name="col-1" type="radio" class="7"/>
+    <label class="7">7</label>
+    <input name="col-1" type="radio" class="8"/>
+    <label class="8">8</label>
+    <input name="col-1" type="radio" class="9"/>
+    <label class="9">9</input>
+  </div>
+  <div class="box b">
+    <input name="col-2" type="radio" class="A"/>
+    <label class="A">A</label>
+    <input name="col-2" type="radio" class="B"/>
+    <label class="B">B</label>
+    <input name="col-2" type="radio" class="C"/>
+    <label class="C">C</label>
+    <input name="col-2" type="radio" class="D"/>
+    <label class="D">D</label>
+    <input name="col-2" type="radio" class="E"/>
+    <label class="E">E</label>
+    <input name="col-2" type="radio" class="F"/>
+    <label class="F">F</label>
+    <input name="col-2" type="radio" class="G"/>
+    <label class="G">G</label>
+    <input name="col-2" type="radio" class="H"/>
+    <label class="H">H</label>
+    <input name="col-2" type="radio" class="I"/>
+    <label class="I">I</label>
+    <input name="col-2" type="radio" class="J"/>
+    <label class="J">J</label>
+    <input name="col-2" type="radio" class="K"/>
+    <label class="K">K</label>
+    <input name="col-2" type="radio" class="L"/>
+    <label class="L">L</label>
+    <input name="col-2" type="radio" class="M"/>
+    <label class="M">M</label>
+    <input name="col-2" type="radio" class="N"/>
+    <label class="N">N</label>
+    <input name="col-2" type="radio" class="O"/>
+    <label class="O">O</label>
+    <input name="col-2" type="radio" class="P"/>
+    <label class="P">P</input>
+     <input name="col-2" type="radio" class="Q"/>
+    <label class="Q">Q</label>
+    <input name="col-2" type="radio" class="R"/>
+    <label class="R">R</label>
+    <input name="col-2" type="radio" class="S"/>
+    <label class="S">S</label>
+    <input name="col-2" type="radio" class="T"/>
+    <label class="T">T</label>
+    <input name="col-2" type="radio" class="U"/>
+    <label class="U">U</label>
+    <input name="col-2" type="radio" class="V"/>
+    <label class="V">V</label>
+    <input name="col-2" type="radio" class="W"/>
+    <label class="W">W</label>
+    <input name="col-2" type="radio" class="X"/>
+    <label class="X">X</label>
+    <input name="col-2" type="radio" class="Z"/>
+    <label class="Z">Z</label>
+    <input name="col-2" type="radio" class="a"/>
+    <label class="a">a</label>
+    <input name="col-2" type="radio" class="b"/>
+    <label class="b">b</label>
+    <input name="col-2" type="radio" class="c"/>
+    <label class="c">c</label>
+    <input name="col-2" type="radio" class="d"/>
+    <label class="d">d</label>
+    <input name="col-2" type="radio" class="e"/>
+    <label class="e">e</label>
+    <input name="col-2" type="radio" class="f"/>
+    <label class="f">f</label>
+    <input name="col-2" type="radio" class="g"/>
+    <label class="g">g</label>
+    <input name="col-2" type="radio" class="h"/>
+    <label class="h">h</label>
+    <input name="col-2" type="radio" class="i"/>
+    <label class="i">i</label>
+    <input name="col-2" type="radio" class="j"/>
+    <label class="j">j</label>
+    <input name="col-2" type="radio" class="k"/>
+    <label class="k">k</label>
+    <input name="col-2" type="radio" class="l"/>
+    <label class="l">l</label>
+    <input name="col-2" type="radio" class="m"/>
+    <label class="m">m</label>
+    <input name="col-2" type="radio" class="n"/>
+    <label class="n">n</label>
+    <input name="col-2" type="radio" class="o"/>
+    <label class="o">o</label>
+    <input name="col-2" type="radio" class="p"/>
+    <label class="p">p</input>
+     <input name="col-2" type="radio" class="q"/>
+    <label class="q">q</label>
+    <input name="col-2" type="radio" class="r"/>
+    <label class="r">r</label>
+    <input name="col-2" type="radio" class="s"/>
+    <label class="s">s</label>
+    <input name="col-2" type="radio" class="t"/>
+    <label class="t">t</label>
+    <input name="col-2" type="radio" class="u"/>
+    <label class="u">u</label>
+    <input name="col-2" type="radio" class="v"/>
+    <label class="v">v</label>
+    <input name="col-2" type="radio" class="w"/>
+    <label class="w">w</label>
+    <input name="col-2" type="radio" class="x"/>
+    <label class="x">x</label>
+    <input name="col-2" type="radio" class="z"/>
+    <label class="z">z</label>
+    <input name="col-2" type="radio" class="@"/>
+    <label class="@">@</label>
+    <input name="col-2" type="radio" class="0"/>
+    <label class="0">0</label>
+    <input name="col-2" type="radio" class="1"/>
+    <label class="1">1</label>
+    <input name="col-2" type="radio" class="2"/>
+    <label class="2">2</label>
+    <input name="col-2" type="radio" class="3"/>
+    <label class="3">3</label>
+    <input name="col-2" type="radio" class="4"/>
+    <label class="4">4</label>
+    <input name="col-2" type="radio" class="5"/>
+    <label class="5">5</label>
+    <input name="col-2" type="radio" class="6"/>
+    <label class="6">6</label>
+    <input name="col-2" type="radio" class="7"/>
+    <label class="7">7</label>
+    <input name="col-2" type="radio" class="8"/>
+    <label class="8">8</label>
+    <input name="col-2" type="radio" class="9"/>
+    <label class="9">9</input>
+  </div>
+  <div class="box c">
+    <input name="col-3" type="radio" class="A"/>
+    <label class="A">A</label>
+    <input name="col-1" type="radio" class="B"/>
+    <label class="B">B</label>
+    <input name="col-1" type="radio" class="C"/>
+    <label class="C">C</label>
+    <input name="col-1" type="radio" class="D"/>
+    <label class="D">D</label>
+    <input name="col-1" type="radio" class="E"/>
+    <label class="E">E</label>
+    <input name="col-1" type="radio" class="F"/>
+    <label class="F">F</label>
+    <input name="col-1" type="radio" class="G"/>
+    <label class="G">G</label>
+    <input name="col-1" type="radio" class="H"/>
+    <label class="H">H</label>
+    <input name="col-1" type="radio" class="I"/>
+    <label class="I">I</label>
+    <input name="col-1" type="radio" class="J"/>
+    <label class="J">J</label>
+    <input name="col-1" type="radio" class="K"/>
+    <label class="K">K</label>
+    <input name="col-1" type="radio" class="L"/>
+    <label class="L">L</label>
+    <input name="col-1" type="radio" class="M"/>
+    <label class="M">M</label>
+    <input name="col-1" type="radio" class="N"/>
+    <label class="N">N</label>
+    <input name="col-1" type="radio" class="O"/>
+    <label class="O">O</label>
+    <input name="col-1" type="radio" class="P"/>
+    <label class="P">P</input>
+     <input name="col-1" type="radio" class="Q"/>
+    <label class="Q">Q</label>
+    <input name="col-1" type="radio" class="R"/>
+    <label class="R">R</label>
+    <input name="col-1" type="radio" class="S"/>
+    <label class="S">S</label>
+    <input name="col-1" type="radio" class="T"/>
+    <label class="T">T</label>
+    <input name="col-1" type="radio" class="U"/>
+    <label class="U">U</label>
+    <input name="col-1" type="radio" class="V"/>
+    <label class="V">V</label>
+    <input name="col-1" type="radio" class="W"/>
+    <label class="W">W</label>
+    <input name="col-1" type="radio" class="X"/>
+    <label class="X">X</label>
+    <input name="col-1" type="radio" class="Z"/>
+    <label class="Z">Z</label>
+    <input name="col-1" type="radio" class="a"/>
+    <label class="a">a</label>
+    <input name="col-1" type="radio" class="b"/>
+    <label class="b">b</label>
+    <input name="col-1" type="radio" class="c"/>
+    <label class="c">c</label>
+    <input name="col-1" type="radio" class="d"/>
+    <label class="d">d</label>
+    <input name="col-1" type="radio" class="e"/>
+    <label class="e">e</label>
+    <input name="col-1" type="radio" class="f"/>
+    <label class="f">f</label>
+    <input name="col-1" type="radio" class="g"/>
+    <label class="g">g</label>
+    <input name="col-1" type="radio" class="h"/>
+    <label class="h">h</label>
+    <input name="col-1" type="radio" class="i"/>
+    <label class="i">i</label>
+    <input name="col-1" type="radio" class="j"/>
+    <label class="j">j</label>
+    <input name="col-1" type="radio" class="k"/>
+    <label class="k">k</label>
+    <input name="col-1" type="radio" class="l"/>
+    <label class="l">l</label>
+    <input name="col-1" type="radio" class="m"/>
+    <label class="m">m</label>
+    <input name="col-1" type="radio" class="n"/>
+    <label class="n">n</label>
+    <input name="col-1" type="radio" class="o"/>
+    <label class="o">o</label>
+    <input name="col-1" type="radio" class="p"/>
+    <label class="p">p</input>
+     <input name="col-1" type="radio" class="q"/>
+    <label class="q">q</label>
+    <input name="col-1" type="radio" class="r"/>
+    <label class="r">r</label>
+    <input name="col-1" type="radio" class="s"/>
+    <label class="s">s</label>
+    <input name="col-1" type="radio" class="t"/>
+    <label class="t">t</label>
+    <input name="col-1" type="radio" class="u"/>
+    <label class="u">u</label>
+    <input name="col-1" type="radio" class="v"/>
+    <label class="v">v</label>
+    <input name="col-1" type="radio" class="w"/>
+    <label class="w">w</label>
+    <input name="col-1" type="radio" class="x"/>
+    <label class="x">x</label>
+    <input name="col-1" type="radio" class="z"/>
+    <label class="z">z</label>
+    <input name="col-1" type="radio" class="@"/>
+    <label class="@">@</label>
+    <input name="col-1" type="radio" class="0"/>
+    <label class="0">0</label>
+    <input name="col-1" type="radio" class="1"/>
+    <label class="1">1</label>
+    <input name="col-1" type="radio" class="2"/>
+    <label class="2">2</label>
+    <input name="col-1" type="radio" class="3"/>
+    <label class="3">3</label>
+    <input name="col-1" type="radio" class="4"/>
+    <label class="4">4</label>
+    <input name="col-1" type="radio" class="5"/>
+    <label class="5">5</label>
+    <input name="col-1" type="radio" class="6"/>
+    <label class="6">6</label>
+    <input name="col-1" type="radio" class="7"/>
+    <label class="7">7</label>
+    <input name="col-1" type="radio" class="8"/>
+    <label class="8">8</label>
+    <input name="col-1" type="radio" class="9"/>
+    <label class="9">9</input>
+  </div>
+  <div class="box d">
+    <input name="col-1" type="radio" class="A"/>
+    <label class="A">A</label>
+    <input name="col-1" type="radio" class="B"/>
+    <label class="B">B</label>
+    <input name="col-1" type="radio" class="C"/>
+    <label class="C">C</label>
+    <input name="col-1" type="radio" class="D"/>
+    <label class="D">D</label>
+    <input name="col-1" type="radio" class="E"/>
+    <label class="E">E</label>
+    <input name="col-1" type="radio" class="F"/>
+    <label class="F">F</label>
+    <input name="col-1" type="radio" class="G"/>
+    <label class="G">G</label>
+    <input name="col-1" type="radio" class="H"/>
+    <label class="H">H</label>
+    <input name="col-1" type="radio" class="I"/>
+    <label class="I">I</label>
+    <input name="col-1" type="radio" class="J"/>
+    <label class="J">J</label>
+    <input name="col-1" type="radio" class="K"/>
+    <label class="K">K</label>
+    <input name="col-1" type="radio" class="L"/>
+    <label class="L">L</label>
+    <input name="col-1" type="radio" class="M"/>
+    <label class="M">M</label>
+    <input name="col-1" type="radio" class="N"/>
+    <label class="N">N</label>
+    <input name="col-1" type="radio" class="O"/>
+    <label class="O">O</label>
+    <input name="col-1" type="radio" class="P"/>
+    <label class="P">P</input>
+     <input name="col-1" type="radio" class="Q"/>
+    <label class="Q">Q</label>
+    <input name="col-1" type="radio" class="R"/>
+    <label class="R">R</label>
+    <input name="col-1" type="radio" class="S"/>
+    <label class="S">S</label>
+    <input name="col-1" type="radio" class="T"/>
+    <label class="T">T</label>
+    <input name="col-1" type="radio" class="U"/>
+    <label class="U">U</label>
+    <input name="col-1" type="radio" class="V"/>
+    <label class="V">V</label>
+    <input name="col-1" type="radio" class="W"/>
+    <label class="W">W</label>
+    <input name="col-1" type="radio" class="X"/>
+    <label class="X">X</label>
+    <input name="col-1" type="radio" class="Z"/>
+    <label class="Z">Z</label>
+    <input name="col-1" type="radio" class="a"/>
+    <label class="a">a</label>
+    <input name="col-1" type="radio" class="b"/>
+    <label class="b">b</label>
+    <input name="col-1" type="radio" class="c"/>
+    <label class="c">c</label>
+    <input name="col-1" type="radio" class="d"/>
+    <label class="d">d</label>
+    <input name="col-1" type="radio" class="e"/>
+    <label class="e">e</label>
+    <input name="col-1" type="radio" class="f"/>
+    <label class="f">f</label>
+    <input name="col-1" type="radio" class="g"/>
+    <label class="g">g</label>
+    <input name="col-1" type="radio" class="h"/>
+    <label class="h">h</label>
+    <input name="col-1" type="radio" class="i"/>
+    <label class="i">i</label>
+    <input name="col-1" type="radio" class="j"/>
+    <label class="j">j</label>
+    <input name="col-1" type="radio" class="k"/>
+    <label class="k">k</label>
+    <input name="col-1" type="radio" class="l"/>
+    <label class="l">l</label>
+    <input name="col-1" type="radio" class="m"/>
+    <label class="m">m</label>
+    <input name="col-1" type="radio" class="n"/>
+    <label class="n">n</label>
+    <input name="col-1" type="radio" class="o"/>
+    <label class="o">o</label>
+    <input name="col-1" type="radio" class="p"/>
+    <label class="p">p</input>
+     <input name="col-1" type="radio" class="q"/>
+    <label class="q">q</label>
+    <input name="col-1" type="radio" class="r"/>
+    <label class="r">r</label>
+    <input name="col-1" type="radio" class="s"/>
+    <label class="s">s</label>
+    <input name="col-1" type="radio" class="t"/>
+    <label class="t">t</label>
+    <input name="col-1" type="radio" class="u"/>
+    <label class="u">u</label>
+    <input name="col-1" type="radio" class="v"/>
+    <label class="v">v</label>
+    <input name="col-1" type="radio" class="w"/>
+    <label class="w">w</label>
+    <input name="col-1" type="radio" class="x"/>
+    <label class="x">x</label>
+    <input name="col-1" type="radio" class="z"/>
+    <label class="z">z</label>
+    <input name="col-1" type="radio" class="@"/>
+    <label class="@">@</label>
+    <input name="col-1" type="radio" class="0"/>
+    <label class="0">0</label>
+    <input name="col-1" type="radio" class="1"/>
+    <label class="1">1</label>
+    <input name="col-1" type="radio" class="2"/>
+    <label class="2">2</label>
+    <input name="col-1" type="radio" class="3"/>
+    <label class="3">3</label>
+    <input name="col-1" type="radio" class="4"/>
+    <label class="4">4</label>
+    <input name="col-1" type="radio" class="5"/>
+    <label class="5">5</label>
+    <input name="col-1" type="radio" class="6"/>
+    <label class="6">6</label>
+    <input name="col-1" type="radio" class="7"/>
+    <label class="7">7</label>
+    <input name="col-1" type="radio" class="8"/>
+    <label class="8">8</label>
+    <input name="col-1" type="radio" class="9"/>
+    <label class="9">9</input>
+  </div>
+  <div class="box e">
+    <input name="col-1" type="radio" class="A"/>
+    <label class="A">A</label>
+    <input name="col-1" type="radio" class="B"/>
+    <label class="B">B</label>
+    <input name="col-1" type="radio" class="C"/>
+    <label class="C">C</label>
+    <input name="col-1" type="radio" class="D"/>
+    <label class="D">D</label>
+    <input name="col-1" type="radio" class="E"/>
+    <label class="E">E</label>
+    <input name="col-1" type="radio" class="F"/>
+    <label class="F">F</label>
+    <input name="col-1" type="radio" class="G"/>
+    <label class="G">G</label>
+    <input name="col-1" type="radio" class="H"/>
+    <label class="H">H</label>
+    <input name="col-1" type="radio" class="I"/>
+    <label class="I">I</label>
+    <input name="col-1" type="radio" class="J"/>
+    <label class="J">J</label>
+    <input name="col-1" type="radio" class="K"/>
+    <label class="K">K</label>
+    <input name="col-1" type="radio" class="L"/>
+    <label class="L">L</label>
+    <input name="col-1" type="radio" class="M"/>
+    <label class="M">M</label>
+    <input name="col-1" type="radio" class="N"/>
+    <label class="N">N</label>
+    <input name="col-1" type="radio" class="O"/>
+    <label class="O">O</label>
+    <input name="col-1" type="radio" class="P"/>
+    <label class="P">P</input>
+     <input name="col-1" type="radio" class="Q"/>
+    <label class="Q">Q</label>
+    <input name="col-1" type="radio" class="R"/>
+    <label class="R">R</label>
+    <input name="col-1" type="radio" class="S"/>
+    <label class="S">S</label>
+    <input name="col-1" type="radio" class="T"/>
+    <label class="T">T</label>
+    <input name="col-1" type="radio" class="U"/>
+    <label class="U">U</label>
+    <input name="col-1" type="radio" class="V"/>
+    <label class="V">V</label>
+    <input name="col-1" type="radio" class="W"/>
+    <label class="W">W</label>
+    <input name="col-1" type="radio" class="X"/>
+    <label class="X">X</label>
+    <input name="col-1" type="radio" class="Z"/>
+    <label class="Z">Z</label>
+    <input name="col-1" type="radio" class="a"/>
+    <label class="a">a</label>
+    <input name="col-1" type="radio" class="b"/>
+    <label class="b">b</label>
+    <input name="col-1" type="radio" class="c"/>
+    <label class="c">c</label>
+    <input name="col-1" type="radio" class="d"/>
+    <label class="d">d</label>
+    <input name="col-1" type="radio" class="e"/>
+    <label class="e">e</label>
+    <input name="col-1" type="radio" class="f"/>
+    <label class="f">f</label>
+    <input name="col-1" type="radio" class="g"/>
+    <label class="g">g</label>
+    <input name="col-1" type="radio" class="h"/>
+    <label class="h">h</label>
+    <input name="col-1" type="radio" class="i"/>
+    <label class="i">i</label>
+    <input name="col-1" type="radio" class="j"/>
+    <label class="j">j</label>
+    <input name="col-1" type="radio" class="k"/>
+    <label class="k">k</label>
+    <input name="col-1" type="radio" class="l"/>
+    <label class="l">l</label>
+    <input name="col-1" type="radio" class="m"/>
+    <label class="m">m</label>
+    <input name="col-1" type="radio" class="n"/>
+    <label class="n">n</label>
+    <input name="col-1" type="radio" class="o"/>
+    <label class="o">o</label>
+    <input name="col-1" type="radio" class="p"/>
+    <label class="p">p</input>
+     <input name="col-1" type="radio" class="q"/>
+    <label class="q">q</label>
+    <input name="col-1" type="radio" class="r"/>
+    <label class="r">r</label>
+    <input name="col-1" type="radio" class="s"/>
+    <label class="s">s</label>
+    <input name="col-1" type="radio" class="t"/>
+    <label class="t">t</label>
+    <input name="col-1" type="radio" class="u"/>
+    <label class="u">u</label>
+    <input name="col-1" type="radio" class="v"/>
+    <label class="v">v</label>
+    <input name="col-1" type="radio" class="w"/>
+    <label class="w">w</label>
+    <input name="col-1" type="radio" class="x"/>
+    <label class="x">x</label>
+    <input name="col-1" type="radio" class="z"/>
+    <label class="z">z</label>
+    <input name="col-1" type="radio" class="@"/>
+    <label class="@">@</label>
+    <input name="col-1" type="radio" class="0"/>
+    <label class="0">0</label>
+    <input name="col-1" type="radio" class="1"/>
+    <label class="1">1</label>
+    <input name="col-1" type="radio" class="2"/>
+    <label class="2">2</label>
+    <input name="col-1" type="radio" class="3"/>
+    <label class="3">3</label>
+    <input name="col-1" type="radio" class="4"/>
+    <label class="4">4</label>
+    <input name="col-1" type="radio" class="5"/>
+    <label class="5">5</label>
+    <input name="col-1" type="radio" class="6"/>
+    <label class="6">6</label>
+    <input name="col-1" type="radio" class="7"/>
+    <label class="7">7</label>
+    <input name="col-1" type="radio" class="8"/>
+    <label class="8">8</label>
+    <input name="col-1" type="radio" class="9"/>
+    <label class="9">9</input>
+  </div>
+  <div class="box f">
+    <input name="col-1" type="radio" class="A"/>
+    <label class="A">A</label>
+    <input name="col-1" type="radio" class="B"/>
+    <label class="B">B</label>
+    <input name="col-1" type="radio" class="C"/>
+    <label class="C">C</label>
+    <input name="col-1" type="radio" class="D"/>
+    <label class="D">D</label>
+    <input name="col-1" type="radio" class="E"/>
+    <label class="E">E</label>
+    <input name="col-1" type="radio" class="F"/>
+    <label class="F">F</label>
+    <input name="col-1" type="radio" class="G"/>
+    <label class="G">G</label>
+    <input name="col-1" type="radio" class="H"/>
+    <label class="H">H</label>
+    <input name="col-1" type="radio" class="I"/>
+    <label class="I">I</label>
+    <input name="col-1" type="radio" class="J"/>
+    <label class="J">J</label>
+    <input name="col-1" type="radio" class="K"/>
+    <label class="K">K</label>
+    <input name="col-1" type="radio" class="L"/>
+    <label class="L">L</label>
+    <input name="col-1" type="radio" class="M"/>
+    <label class="M">M</label>
+    <input name="col-1" type="radio" class="N"/>
+    <label class="N">N</label>
+    <input name="col-1" type="radio" class="O"/>
+    <label class="O">O</label>
+    <input name="col-1" type="radio" class="P"/>
+    <label class="P">P</input>
+     <input name="col-1" type="radio" class="Q"/>
+    <label class="Q">Q</label>
+    <input name="col-1" type="radio" class="R"/>
+    <label class="R">R</label>
+    <input name="col-1" type="radio" class="S"/>
+    <label class="S">S</label>
+    <input name="col-1" type="radio" class="T"/>
+    <label class="T">T</label>
+    <input name="col-1" type="radio" class="U"/>
+    <label class="U">U</label>
+    <input name="col-1" type="radio" class="V"/>
+    <label class="V">V</label>
+    <input name="col-1" type="radio" class="W"/>
+    <label class="W">W</label>
+    <input name="col-1" type="radio" class="X"/>
+    <label class="X">X</label>
+    <input name="col-1" type="radio" class="Z"/>
+    <label class="Z">Z</label>
+    <input name="col-1" type="radio" class="a"/>
+    <label class="a">a</label>
+    <input name="col-1" type="radio" class="b"/>
+    <label class="b">b</label>
+    <input name="col-1" type="radio" class="c"/>
+    <label class="c">c</label>
+    <input name="col-1" type="radio" class="d"/>
+    <label class="d">d</label>
+    <input name="col-1" type="radio" class="e"/>
+    <label class="e">e</label>
+    <input name="col-1" type="radio" class="f"/>
+    <label class="f">f</label>
+    <input name="col-1" type="radio" class="g"/>
+    <label class="g">g</label>
+    <input name="col-1" type="radio" class="h"/>
+    <label class="h">h</label>
+    <input name="col-1" type="radio" class="i"/>
+    <label class="i">i</label>
+    <input name="col-1" type="radio" class="j"/>
+    <label class="j">j</label>
+    <input name="col-1" type="radio" class="k"/>
+    <label class="k">k</label>
+    <input name="col-1" type="radio" class="l"/>
+    <label class="l">l</label>
+    <input name="col-1" type="radio" class="m"/>
+    <label class="m">m</label>
+    <input name="col-1" type="radio" class="n"/>
+    <label class="n">n</label>
+    <input name="col-1" type="radio" class="o"/>
+    <label class="o">o</label>
+    <input name="col-1" type="radio" class="p"/>
+    <label class="p">p</input>
+     <input name="col-1" type="radio" class="q"/>
+    <label class="q">q</label>
+    <input name="col-1" type="radio" class="r"/>
+    <label class="r">r</label>
+    <input name="col-1" type="radio" class="s"/>
+    <label class="s">s</label>
+    <input name="col-1" type="radio" class="t"/>
+    <label class="t">t</label>
+    <input name="col-1" type="radio" class="u"/>
+    <label class="u">u</label>
+    <input name="col-1" type="radio" class="v"/>
+    <label class="v">v</label>
+    <input name="col-1" type="radio" class="w"/>
+    <label class="w">w</label>
+    <input name="col-1" type="radio" class="x"/>
+    <label class="x">x</label>
+    <input name="col-1" type="radio" class="z"/>
+    <label class="z">z</label>
+    <input name="col-1" type="radio" class="@"/>
+    <label class="@">@</label>
+    <input name="col-1" type="radio" class="0"/>
+    <label class="0">0</label>
+    <input name="col-1" type="radio" class="1"/>
+    <label class="1">1</label>
+    <input name="col-1" type="radio" class="2"/>
+    <label class="2">2</label>
+    <input name="col-1" type="radio" class="3"/>
+    <label class="3">3</label>
+    <input name="col-1" type="radio" class="4"/>
+    <label class="4">4</label>
+    <input name="col-1" type="radio" class="5"/>
+    <label class="5">5</label>
+    <input name="col-1" type="radio" class="6"/>
+    <label class="6">6</label>
+    <input name="col-1" type="radio" class="7"/>
+    <label class="7">7</label>
+    <input name="col-1" type="radio" class="8"/>
+    <label class="8">8</label>
+    <input name="col-1" type="radio" class="9"/>
+    <label class="9">9</input>
+  </div>
+  <div class="box g">
+    <input name="col-1" type="radio" class="A"/>
+    <label class="A">A</label>
+    <input name="col-1" type="radio" class="B"/>
+    <label class="B">B</label>
+    <input name="col-1" type="radio" class="C"/>
+    <label class="C">C</label>
+    <input name="col-1" type="radio" class="D"/>
+    <label class="D">D</label>
+    <input name="col-1" type="radio" class="E"/>
+    <label class="E">E</label>
+    <input name="col-1" type="radio" class="F"/>
+    <label class="F">F</label>
+    <input name="col-1" type="radio" class="G"/>
+    <label class="G">G</label>
+    <input name="col-1" type="radio" class="H"/>
+    <label class="H">H</label>
+    <input name="col-1" type="radio" class="I"/>
+    <label class="I">I</label>
+    <input name="col-1" type="radio" class="J"/>
+    <label class="J">J</label>
+    <input name="col-1" type="radio" class="K"/>
+    <label class="K">K</label>
+    <input name="col-1" type="radio" class="L"/>
+    <label class="L">L</label>
+    <input name="col-1" type="radio" class="M"/>
+    <label class="M">M</label>
+    <input name="col-1" type="radio" class="N"/>
+    <label class="N">N</label>
+    <input name="col-1" type="radio" class="O"/>
+    <label class="O">O</label>
+    <input name="col-1" type="radio" class="P"/>
+    <label class="P">P</input>
+     <input name="col-1" type="radio" class="Q"/>
+    <label class="Q">Q</label>
+    <input name="col-1" type="radio" class="R"/>
+    <label class="R">R</label>
+    <input name="col-1" type="radio" class="S"/>
+    <label class="S">S</label>
+    <input name="col-1" type="radio" class="T"/>
+    <label class="T">T</label>
+    <input name="col-1" type="radio" class="U"/>
+    <label class="U">U</label>
+    <input name="col-1" type="radio" class="V"/>
+    <label class="V">V</label>
+    <input name="col-1" type="radio" class="W"/>
+    <label class="W">W</label>
+    <input name="col-1" type="radio" class="X"/>
+    <label class="X">X</label>
+    <input name="col-1" type="radio" class="Z"/>
+    <label class="Z">Z</label>
+    <input name="col-1" type="radio" class="a"/>
+    <label class="a">a</label>
+    <input name="col-1" type="radio" class="b"/>
+    <label class="b">b</label>
+    <input name="col-1" type="radio" class="c"/>
+    <label class="c">c</label>
+    <input name="col-1" type="radio" class="d"/>
+    <label class="d">d</label>
+    <input name="col-1" type="radio" class="e"/>
+    <label class="e">e</label>
+    <input name="col-1" type="radio" class="f"/>
+    <label class="f">f</label>
+    <input name="col-1" type="radio" class="g"/>
+    <label class="g">g</label>
+    <input name="col-1" type="radio" class="h"/>
+    <label class="h">h</label>
+    <input name="col-1" type="radio" class="i"/>
+    <label class="i">i</label>
+    <input name="col-1" type="radio" class="j"/>
+    <label class="j">j</label>
+    <input name="col-1" type="radio" class="k"/>
+    <label class="k">k</label>
+    <input name="col-1" type="radio" class="l"/>
+    <label class="l">l</label>
+    <input name="col-1" type="radio" class="m"/>
+    <label class="m">m</label>
+    <input name="col-1" type="radio" class="n"/>
+    <label class="n">n</label>
+    <input name="col-1" type="radio" class="o"/>
+    <label class="o">o</label>
+    <input name="col-1" type="radio" class="p"/>
+    <label class="p">p</input>
+     <input name="col-1" type="radio" class="q"/>
+    <label class="q">q</label>
+    <input name="col-1" type="radio" class="r"/>
+    <label class="r">r</label>
+    <input name="col-1" type="radio" class="s"/>
+    <label class="s">s</label>
+    <input name="col-1" type="radio" class="t"/>
+    <label class="t">t</label>
+    <input name="col-1" type="radio" class="u"/>
+    <label class="u">u</label>
+    <input name="col-1" type="radio" class="v"/>
+    <label class="v">v</label>
+    <input name="col-1" type="radio" class="w"/>
+    <label class="w">w</label>
+    <input name="col-1" type="radio" class="x"/>
+    <label class="x">x</label>
+    <input name="col-1" type="radio" class="z"/>
+    <label class="z">z</label>
+    <input name="col-1" type="radio" class="@"/>
+    <label class="@">@</label>
+    <input name="col-1" type="radio" class="0"/>
+    <label class="0">0</label>
+    <input name="col-1" type="radio" class="1"/>
+    <label class="1">1</label>
+    <input name="col-1" type="radio" class="2"/>
+    <label class="2">2</label>
+    <input name="col-1" type="radio" class="3"/>
+    <label class="3">3</label>
+    <input name="col-1" type="radio" class="4"/>
+    <label class="4">4</label>
+    <input name="col-1" type="radio" class="5"/>
+    <label class="5">5</label>
+    <input name="col-1" type="radio" class="6"/>
+    <label class="6">6</label>
+    <input name="col-1" type="radio" class="7"/>
+    <label class="7">7</label>
+    <input name="col-1" type="radio" class="8"/>
+    <label class="8">8</label>
+    <input name="col-1" type="radio" class="9"/>
+    <label class="9">9</input>
+  </div>
+  <div class="box h">
+    <input name="col-1" type="radio" class="A"/>
+    <label class="A">A</label>
+    <input name="col-1" type="radio" class="B"/>
+    <label class="B">B</label>
+    <input name="col-1" type="radio" class="C"/>
+    <label class="C">C</label>
+    <input name="col-1" type="radio" class="D"/>
+    <label class="D">D</label>
+    <input name="col-1" type="radio" class="E"/>
+    <label class="E">E</label>
+    <input name="col-1" type="radio" class="F"/>
+    <label class="F">F</label>
+    <input name="col-1" type="radio" class="G"/>
+    <label class="G">G</label>
+    <input name="col-1" type="radio" class="H"/>
+    <label class="H">H</label>
+    <input name="col-1" type="radio" class="I"/>
+    <label class="I">I</label>
+    <input name="col-1" type="radio" class="J"/>
+    <label class="J">J</label>
+    <input name="col-1" type="radio" class="K"/>
+    <label class="K">K</label>
+    <input name="col-1" type="radio" class="L"/>
+    <label class="L">L</label>
+    <input name="col-1" type="radio" class="M"/>
+    <label class="M">M</label>
+    <input name="col-1" type="radio" class="N"/>
+    <label class="N">N</label>
+    <input name="col-1" type="radio" class="O"/>
+    <label class="O">O</label>
+    <input name="col-1" type="radio" class="P"/>
+    <label class="P">P</input>
+     <input name="col-1" type="radio" class="Q"/>
+    <label class="Q">Q</label>
+    <input name="col-1" type="radio" class="R"/>
+    <label class="R">R</label>
+    <input name="col-1" type="radio" class="S"/>
+    <label class="S">S</label>
+    <input name="col-1" type="radio" class="T"/>
+    <label class="T">T</label>
+    <input name="col-1" type="radio" class="U"/>
+    <label class="U">U</label>
+    <input name="col-1" type="radio" class="V"/>
+    <label class="V">V</label>
+    <input name="col-1" type="radio" class="W"/>
+    <label class="W">W</label>
+    <input name="col-1" type="radio" class="X"/>
+    <label class="X">X</label>
+    <input name="col-1" type="radio" class="Z"/>
+    <label class="Z">Z</label>
+    <input name="col-1" type="radio" class="a"/>
+    <label class="a">a</label>
+    <input name="col-1" type="radio" class="b"/>
+    <label class="b">b</label>
+    <input name="col-1" type="radio" class="c"/>
+    <label class="c">c</label>
+    <input name="col-1" type="radio" class="d"/>
+    <label class="d">d</label>
+    <input name="col-1" type="radio" class="e"/>
+    <label class="e">e</label>
+    <input name="col-1" type="radio" class="f"/>
+    <label class="f">f</label>
+    <input name="col-1" type="radio" class="g"/>
+    <label class="g">g</label>
+    <input name="col-1" type="radio" class="h"/>
+    <label class="h">h</label>
+    <input name="col-1" type="radio" class="i"/>
+    <label class="i">i</label>
+    <input name="col-1" type="radio" class="j"/>
+    <label class="j">j</label>
+    <input name="col-1" type="radio" class="k"/>
+    <label class="k">k</label>
+    <input name="col-1" type="radio" class="l"/>
+    <label class="l">l</label>
+    <input name="col-1" type="radio" class="m"/>
+    <label class="m">m</label>
+    <input name="col-1" type="radio" class="n"/>
+    <label class="n">n</label>
+    <input name="col-1" type="radio" class="o"/>
+    <label class="o">o</label>
+    <input name="col-1" type="radio" class="p"/>
+    <label class="p">p</input>
+     <input name="col-1" type="radio" class="q"/>
+    <label class="q">q</label>
+    <input name="col-1" type="radio" class="r"/>
+    <label class="r">r</label>
+    <input name="col-1" type="radio" class="s"/>
+    <label class="s">s</label>
+    <input name="col-1" type="radio" class="t"/>
+    <label class="t">t</label>
+    <input name="col-1" type="radio" class="u"/>
+    <label class="u">u</label>
+    <input name="col-1" type="radio" class="v"/>
+    <label class="v">v</label>
+    <input name="col-1" type="radio" class="w"/>
+    <label class="w">w</label>
+    <input name="col-1" type="radio" class="x"/>
+    <label class="x">x</label>
+    <input name="col-1" type="radio" class="z"/>
+    <label class="z">z</label>
+    <input name="col-1" type="radio" class="@"/>
+    <label class="@">@</label>
+    <input name="col-1" type="radio" class="0"/>
+    <label class="0">0</label>
+    <input name="col-1" type="radio" class="1"/>
+    <label class="1">1</label>
+    <input name="col-1" type="radio" class="2"/>
+    <label class="2">2</label>
+    <input name="col-1" type="radio" class="3"/>
+    <label class="3">3</label>
+    <input name="col-1" type="radio" class="4"/>
+    <label class="4">4</label>
+    <input name="col-1" type="radio" class="5"/>
+    <label class="5">5</label>
+    <input name="col-1" type="radio" class="6"/>
+    <label class="6">6</label>
+    <input name="col-1" type="radio" class="7"/>
+    <label class="7">7</label>
+    <input name="col-1" type="radio" class="8"/>
+    <label class="8">8</label>
+    <input name="col-1" type="radio" class="9"/>
+    <label class="9">9</input>
+  </div>
+  <div class="box i">
+    <input name="col-1" type="radio" class="A"/>
+    <label class="A">A</label>
+    <input name="col-1" type="radio" class="B"/>
+    <label class="B">B</label>
+    <input name="col-1" type="radio" class="C"/>
+    <label class="C">C</label>
+    <input name="col-1" type="radio" class="D"/>
+    <label class="D">D</label>
+    <input name="col-1" type="radio" class="E"/>
+    <label class="E">E</label>
+    <input name="col-1" type="radio" class="F"/>
+    <label class="F">F</label>
+    <input name="col-1" type="radio" class="G"/>
+    <label class="G">G</label>
+    <input name="col-1" type="radio" class="H"/>
+    <label class="H">H</label>
+    <input name="col-1" type="radio" class="I"/>
+    <label class="I">I</label>
+    <input name="col-1" type="radio" class="J"/>
+    <label class="J">J</label>
+    <input name="col-1" type="radio" class="K"/>
+    <label class="K">K</label>
+    <input name="col-1" type="radio" class="L"/>
+    <label class="L">L</label>
+    <input name="col-1" type="radio" class="M"/>
+    <label class="M">M</label>
+    <input name="col-1" type="radio" class="N"/>
+    <label class="N">N</label>
+    <input name="col-1" type="radio" class="O"/>
+    <label class="O">O</label>
+    <input name="col-1" type="radio" class="P"/>
+    <label class="P">P</input>
+     <input name="col-1" type="radio" class="Q"/>
+    <label class="Q">Q</label>
+    <input name="col-1" type="radio" class="R"/>
+    <label class="R">R</label>
+    <input name="col-1" type="radio" class="S"/>
+    <label class="S">S</label>
+    <input name="col-1" type="radio" class="T"/>
+    <label class="T">T</label>
+    <input name="col-1" type="radio" class="U"/>
+    <label class="U">U</label>
+    <input name="col-1" type="radio" class="V"/>
+    <label class="V">V</label>
+    <input name="col-1" type="radio" class="W"/>
+    <label class="W">W</label>
+    <input name="col-1" type="radio" class="X"/>
+    <label class="X">X</label>
+    <input name="col-1" type="radio" class="Z"/>
+    <label class="Z">Z</label>
+    <input name="col-1" type="radio" class="a"/>
+    <label class="a">a</label>
+    <input name="col-1" type="radio" class="b"/>
+    <label class="b">b</label>
+    <input name="col-1" type="radio" class="c"/>
+    <label class="c">c</label>
+    <input name="col-1" type="radio" class="d"/>
+    <label class="d">d</label>
+    <input name="col-1" type="radio" class="e"/>
+    <label class="e">e</label>
+    <input name="col-1" type="radio" class="f"/>
+    <label class="f">f</label>
+    <input name="col-1" type="radio" class="g"/>
+    <label class="g">g</label>
+    <input name="col-1" type="radio" class="h"/>
+    <label class="h">h</label>
+    <input name="col-1" type="radio" class="i"/>
+    <label class="i">i</label>
+    <input name="col-1" type="radio" class="j"/>
+    <label class="j">j</label>
+    <input name="col-1" type="radio" class="k"/>
+    <label class="k">k</label>
+    <input name="col-1" type="radio" class="l"/>
+    <label class="l">l</label>
+    <input name="col-1" type="radio" class="m"/>
+    <label class="m">m</label>
+    <input name="col-1" type="radio" class="n"/>
+    <label class="n">n</label>
+    <input name="col-1" type="radio" class="o"/>
+    <label class="o">o</label>
+    <input name="col-1" type="radio" class="p"/>
+    <label class="p">p</input>
+     <input name="col-1" type="radio" class="q"/>
+    <label class="q">q</label>
+    <input name="col-1" type="radio" class="r"/>
+    <label class="r">r</label>
+    <input name="col-1" type="radio" class="s"/>
+    <label class="s">s</label>
+    <input name="col-1" type="radio" class="t"/>
+    <label class="t">t</label>
+    <input name="col-1" type="radio" class="u"/>
+    <label class="u">u</label>
+    <input name="col-1" type="radio" class="v"/>
+    <label class="v">v</label>
+    <input name="col-1" type="radio" class="w"/>
+    <label class="w">w</label>
+    <input name="col-1" type="radio" class="x"/>
+    <label class="x">x</label>
+    <input name="col-1" type="radio" class="z"/>
+    <label class="z">z</label>
+    <input name="col-1" type="radio" class="@"/>
+    <label class="@">@</label>
+    <input name="col-1" type="radio" class="0"/>
+    <label class="0">0</label>
+    <input name="col-1" type="radio" class="1"/>
+    <label class="1">1</label>
+    <input name="col-1" type="radio" class="2"/>
+    <label class="2">2</label>
+    <input name="col-1" type="radio" class="3"/>
+    <label class="3">3</label>
+    <input name="col-1" type="radio" class="4"/>
+    <label class="4">4</label>
+    <input name="col-1" type="radio" class="5"/>
+    <label class="5">5</label>
+    <input name="col-1" type="radio" class="6"/>
+    <label class="6">6</label>
+    <input name="col-1" type="radio" class="7"/>
+    <label class="7">7</label>
+    <input name="col-1" type="radio" class="8"/>
+    <label class="8">8</label>
+    <input name="col-1" type="radio" class="9"/>
+    <label class="9">9</input>
+  </div>
+  <div class="box j">
+    <input name="col-1" type="radio" class="A"/>
+    <label class="A">A</label>
+    <input name="col-1" type="radio" class="B"/>
+    <label class="B">B</label>
+    <input name="col-1" type="radio" class="C"/>
+    <label class="C">C</label>
+    <input name="col-1" type="radio" class="D"/>
+    <label class="D">D</label>
+    <input name="col-1" type="radio" class="E"/>
+    <label class="E">E</label>
+    <input name="col-1" type="radio" class="F"/>
+    <label class="F">F</label>
+    <input name="col-1" type="radio" class="G"/>
+    <label class="G">G</label>
+    <input name="col-1" type="radio" class="H"/>
+    <label class="H">H</label>
+    <input name="col-1" type="radio" class="I"/>
+    <label class="I">I</label>
+    <input name="col-1" type="radio" class="J"/>
+    <label class="J">J</label>
+    <input name="col-1" type="radio" class="K"/>
+    <label class="K">K</label>
+    <input name="col-1" type="radio" class="L"/>
+    <label class="L">L</label>
+    <input name="col-1" type="radio" class="M"/>
+    <label class="M">M</label>
+    <input name="col-1" type="radio" class="N"/>
+    <label class="N">N</label>
+    <input name="col-1" type="radio" class="O"/>
+    <label class="O">O</label>
+    <input name="col-1" type="radio" class="P"/>
+    <label class="P">P</input>
+     <input name="col-1" type="radio" class="Q"/>
+    <label class="Q">Q</label>
+    <input name="col-1" type="radio" class="R"/>
+    <label class="R">R</label>
+    <input name="col-1" type="radio" class="S"/>
+    <label class="S">S</label>
+    <input name="col-1" type="radio" class="T"/>
+    <label class="T">T</label>
+    <input name="col-1" type="radio" class="U"/>
+    <label class="U">U</label>
+    <input name="col-1" type="radio" class="V"/>
+    <label class="V">V</label>
+    <input name="col-1" type="radio" class="W"/>
+    <label class="W">W</label>
+    <input name="col-1" type="radio" class="X"/>
+    <label class="X">X</label>
+    <input name="col-1" type="radio" class="Z"/>
+    <label class="Z">Z</label>
+    <input name="col-1" type="radio" class="a"/>
+    <label class="a">a</label>
+    <input name="col-1" type="radio" class="b"/>
+    <label class="b">b</label>
+    <input name="col-1" type="radio" class="c"/>
+    <label class="c">c</label>
+    <input name="col-1" type="radio" class="d"/>
+    <label class="d">d</label>
+    <input name="col-1" type="radio" class="e"/>
+    <label class="e">e</label>
+    <input name="col-1" type="radio" class="f"/>
+    <label class="f">f</label>
+    <input name="col-1" type="radio" class="g"/>
+    <label class="g">g</label>
+    <input name="col-1" type="radio" class="h"/>
+    <label class="h">h</label>
+    <input name="col-1" type="radio" class="i"/>
+    <label class="i">i</label>
+    <input name="col-1" type="radio" class="j"/>
+    <label class="j">j</label>
+    <input name="col-1" type="radio" class="k"/>
+    <label class="k">k</label>
+    <input name="col-1" type="radio" class="l"/>
+    <label class="l">l</label>
+    <input name="col-1" type="radio" class="m"/>
+    <label class="m">m</label>
+    <input name="col-1" type="radio" class="n"/>
+    <label class="n">n</label>
+    <input name="col-1" type="radio" class="o"/>
+    <label class="o">o</label>
+    <input name="col-1" type="radio" class="p"/>
+    <label class="p">p</input>
+     <input name="col-1" type="radio" class="q"/>
+    <label class="q">q</label>
+    <input name="col-1" type="radio" class="r"/>
+    <label class="r">r</label>
+    <input name="col-1" type="radio" class="s"/>
+    <label class="s">s</label>
+    <input name="col-1" type="radio" class="t"/>
+    <label class="t">t</label>
+    <input name="col-1" type="radio" class="u"/>
+    <label class="u">u</label>
+    <input name="col-1" type="radio" class="v"/>
+    <label class="v">v</label>
+    <input name="col-1" type="radio" class="w"/>
+    <label class="w">w</label>
+    <input name="col-1" type="radio" class="x"/>
+    <label class="x">x</label>
+    <input name="col-1" type="radio" class="z"/>
+    <label class="z">z</label>
+    <input name="col-1" type="radio" class="@"/>
+    <label class="@">@</label>
+    <input name="col-1" type="radio" class="0"/>
+    <label class="0">0</label>
+    <input name="col-1" type="radio" class="1"/>
+    <label class="1">1</label>
+    <input name="col-1" type="radio" class="2"/>
+    <label class="2">2</label>
+    <input name="col-1" type="radio" class="3"/>
+    <label class="3">3</label>
+    <input name="col-1" type="radio" class="4"/>
+    <label class="4">4</label>
+    <input name="col-1" type="radio" class="5"/>
+    <label class="5">5</label>
+    <input name="col-1" type="radio" class="6"/>
+    <label class="6">6</label>
+    <input name="col-1" type="radio" class="7"/>
+    <label class="7">7</label>
+    <input name="col-1" type="radio" class="8"/>
+    <label class="8">8</label>
+    <input name="col-1" type="radio" class="9"/>
+    <label class="9">9</input>
+  </div>
+  <div class="box k">
+    <input name="col-1" type="radio" class="A"/>
+    <label class="A">A</label>
+    <input name="col-1" type="radio" class="B"/>
+    <label class="B">B</label>
+    <input name="col-1" type="radio" class="C"/>
+    <label class="C">C</label>
+    <input name="col-1" type="radio" class="D"/>
+    <label class="D">D</label>
+    <input name="col-1" type="radio" class="E"/>
+    <label class="E">E</label>
+    <input name="col-1" type="radio" class="F"/>
+    <label class="F">F</label>
+    <input name="col-1" type="radio" class="G"/>
+    <label class="G">G</label>
+    <input name="col-1" type="radio" class="H"/>
+    <label class="H">H</label>
+    <input name="col-1" type="radio" class="I"/>
+    <label class="I">I</label>
+    <input name="col-1" type="radio" class="J"/>
+    <label class="J">J</label>
+    <input name="col-1" type="radio" class="K"/>
+    <label class="K">K</label>
+    <input name="col-1" type="radio" class="L"/>
+    <label class="L">L</label>
+    <input name="col-1" type="radio" class="M"/>
+    <label class="M">M</label>
+    <input name="col-1" type="radio" class="N"/>
+    <label class="N">N</label>
+    <input name="col-1" type="radio" class="O"/>
+    <label class="O">O</label>
+    <input name="col-1" type="radio" class="P"/>
+    <label class="P">P</input>
+     <input name="col-1" type="radio" class="Q"/>
+    <label class="Q">Q</label>
+    <input name="col-1" type="radio" class="R"/>
+    <label class="R">R</label>
+    <input name="col-1" type="radio" class="S"/>
+    <label class="S">S</label>
+    <input name="col-1" type="radio" class="T"/>
+    <label class="T">T</label>
+    <input name="col-1" type="radio" class="U"/>
+    <label class="U">U</label>
+    <input name="col-1" type="radio" class="V"/>
+    <label class="V">V</label>
+    <input name="col-1" type="radio" class="W"/>
+    <label class="W">W</label>
+    <input name="col-1" type="radio" class="X"/>
+    <label class="X">X</label>
+    <input name="col-1" type="radio" class="Z"/>
+    <label class="Z">Z</label>
+    <input name="col-1" type="radio" class="a"/>
+    <label class="a">a</label>
+    <input name="col-1" type="radio" class="b"/>
+    <label class="b">b</label>
+    <input name="col-1" type="radio" class="c"/>
+    <label class="c">c</label>
+    <input name="col-1" type="radio" class="d"/>
+    <label class="d">d</label>
+    <input name="col-1" type="radio" class="e"/>
+    <label class="e">e</label>
+    <input name="col-1" type="radio" class="f"/>
+    <label class="f">f</label>
+    <input name="col-1" type="radio" class="g"/>
+    <label class="g">g</label>
+    <input name="col-1" type="radio" class="h"/>
+    <label class="h">h</label>
+    <input name="col-1" type="radio" class="i"/>
+    <label class="i">i</label>
+    <input name="col-1" type="radio" class="j"/>
+    <label class="j">j</label>
+    <input name="col-1" type="radio" class="k"/>
+    <label class="k">k</label>
+    <input name="col-1" type="radio" class="l"/>
+    <label class="l">l</label>
+    <input name="col-1" type="radio" class="m"/>
+    <label class="m">m</label>
+    <input name="col-1" type="radio" class="n"/>
+    <label class="n">n</label>
+    <input name="col-1" type="radio" class="o"/>
+    <label class="o">o</label>
+    <input name="col-1" type="radio" class="p"/>
+    <label class="p">p</input>
+     <input name="col-1" type="radio" class="q"/>
+    <label class="q">q</label>
+    <input name="col-1" type="radio" class="r"/>
+    <label class="r">r</label>
+    <input name="col-1" type="radio" class="s"/>
+    <label class="s">s</label>
+    <input name="col-1" type="radio" class="t"/>
+    <label class="t">t</label>
+    <input name="col-1" type="radio" class="u"/>
+    <label class="u">u</label>
+    <input name="col-1" type="radio" class="v"/>
+    <label class="v">v</label>
+    <input name="col-1" type="radio" class="w"/>
+    <label class="w">w</label>
+    <input name="col-1" type="radio" class="x"/>
+    <label class="x">x</label>
+    <input name="col-1" type="radio" class="z"/>
+    <label class="z">z</label>
+    <input name="col-1" type="radio" class="@"/>
+    <label class="@">@</label>
+    <input name="col-1" type="radio" class="0"/>
+    <label class="0">0</label>
+    <input name="col-1" type="radio" class="1"/>
+    <label class="1">1</label>
+    <input name="col-1" type="radio" class="2"/>
+    <label class="2">2</label>
+    <input name="col-1" type="radio" class="3"/>
+    <label class="3">3</label>
+    <input name="col-1" type="radio" class="4"/>
+    <label class="4">4</label>
+    <input name="col-1" type="radio" class="5"/>
+    <label class="5">5</label>
+    <input name="col-1" type="radio" class="6"/>
+    <label class="6">6</label>
+    <input name="col-1" type="radio" class="7"/>
+    <label class="7">7</label>
+    <input name="col-1" type="radio" class="8"/>
+    <label class="8">8</label>
+    <input name="col-1" type="radio" class="9"/>
+    <label class="9">9</input>
+  </div>
+  <div class="box l">
+    <input name="col-1" type="radio" class="A"/>
+    <label class="A">A</label>
+    <input name="col-1" type="radio" class="B"/>
+    <label class="B">B</label>
+    <input name="col-1" type="radio" class="C"/>
+    <label class="C">C</label>
+    <input name="col-1" type="radio" class="D"/>
+    <label class="D">D</label>
+    <input name="col-1" type="radio" class="E"/>
+    <label class="E">E</label>
+    <input name="col-1" type="radio" class="F"/>
+    <label class="F">F</label>
+    <input name="col-1" type="radio" class="G"/>
+    <label class="G">G</label>
+    <input name="col-1" type="radio" class="H"/>
+    <label class="H">H</label>
+    <input name="col-1" type="radio" class="I"/>
+    <label class="I">I</label>
+    <input name="col-1" type="radio" class="J"/>
+    <label class="J">J</label>
+    <input name="col-1" type="radio" class="K"/>
+    <label class="K">K</label>
+    <input name="col-1" type="radio" class="L"/>
+    <label class="L">L</label>
+    <input name="col-1" type="radio" class="M"/>
+    <label class="M">M</label>
+    <input name="col-1" type="radio" class="N"/>
+    <label class="N">N</label>
+    <input name="col-1" type="radio" class="O"/>
+    <label class="O">O</label>
+    <input name="col-1" type="radio" class="P"/>
+    <label class="P">P</input>
+     <input name="col-1" type="radio" class="Q"/>
+    <label class="Q">Q</label>
+    <input name="col-1" type="radio" class="R"/>
+    <label class="R">R</label>
+    <input name="col-1" type="radio" class="S"/>
+    <label class="S">S</label>
+    <input name="col-1" type="radio" class="T"/>
+    <label class="T">T</label>
+    <input name="col-1" type="radio" class="U"/>
+    <label class="U">U</label>
+    <input name="col-1" type="radio" class="V"/>
+    <label class="V">V</label>
+    <input name="col-1" type="radio" class="W"/>
+    <label class="W">W</label>
+    <input name="col-1" type="radio" class="X"/>
+    <label class="X">X</label>
+    <input name="col-1" type="radio" class="Z"/>
+    <label class="Z">Z</label>
+    <input name="col-1" type="radio" class="a"/>
+    <label class="a">a</label>
+    <input name="col-1" type="radio" class="b"/>
+    <label class="b">b</label>
+    <input name="col-1" type="radio" class="c"/>
+    <label class="c">c</label>
+    <input name="col-1" type="radio" class="d"/>
+    <label class="d">d</label>
+    <input name="col-1" type="radio" class="e"/>
+    <label class="e">e</label>
+    <input name="col-1" type="radio" class="f"/>
+    <label class="f">f</label>
+    <input name="col-1" type="radio" class="g"/>
+    <label class="g">g</label>
+    <input name="col-1" type="radio" class="h"/>
+    <label class="h">h</label>
+    <input name="col-1" type="radio" class="i"/>
+    <label class="i">i</label>
+    <input name="col-1" type="radio" class="j"/>
+    <label class="j">j</label>
+    <input name="col-1" type="radio" class="k"/>
+    <label class="k">k</label>
+    <input name="col-1" type="radio" class="l"/>
+    <label class="l">l</label>
+    <input name="col-1" type="radio" class="m"/>
+    <label class="m">m</label>
+    <input name="col-1" type="radio" class="n"/>
+    <label class="n">n</label>
+    <input name="col-1" type="radio" class="o"/>
+    <label class="o">o</label>
+    <input name="col-1" type="radio" class="p"/>
+    <label class="p">p</input>
+     <input name="col-1" type="radio" class="q"/>
+    <label class="q">q</label>
+    <input name="col-1" type="radio" class="r"/>
+    <label class="r">r</label>
+    <input name="col-1" type="radio" class="s"/>
+    <label class="s">s</label>
+    <input name="col-1" type="radio" class="t"/>
+    <label class="t">t</label>
+    <input name="col-1" type="radio" class="u"/>
+    <label class="u">u</label>
+    <input name="col-1" type="radio" class="v"/>
+    <label class="v">v</label>
+    <input name="col-1" type="radio" class="w"/>
+    <label class="w">w</label>
+    <input name="col-1" type="radio" class="x"/>
+    <label class="x">x</label>
+    <input name="col-1" type="radio" class="z"/>
+    <label class="z">z</label>
+    <input name="col-1" type="radio" class="@"/>
+    <label class="@">@</label>
+    <input name="col-1" type="radio" class="0"/>
+    <label class="0">0</label>
+    <input name="col-1" type="radio" class="1"/>
+    <label class="1">1</label>
+    <input name="col-1" type="radio" class="2"/>
+    <label class="2">2</label>
+    <input name="col-1" type="radio" class="3"/>
+    <label class="3">3</label>
+    <input name="col-1" type="radio" class="4"/>
+    <label class="4">4</label>
+    <input name="col-1" type="radio" class="5"/>
+    <label class="5">5</label>
+    <input name="col-1" type="radio" class="6"/>
+    <label class="6">6</label>
+    <input name="col-1" type="radio" class="7"/>
+    <label class="7">7</label>
+    <input name="col-1" type="radio" class="8"/>
+    <label class="8">8</label>
+    <input name="col-1" type="radio" class="9"/>
+    <label class="9">9</input>
+  </div>
+  <div class="box m">
+    <input name="col-1" type="radio" class="A"/>
+    <label class="A">A</label>
+    <input name="col-1" type="radio" class="B"/>
+    <label class="B">B</label>
+    <input name="col-1" type="radio" class="C"/>
+    <label class="C">C</label>
+    <input name="col-1" type="radio" class="D"/>
+    <label class="D">D</label>
+    <input name="col-1" type="radio" class="E"/>
+    <label class="E">E</label>
+    <input name="col-1" type="radio" class="F"/>
+    <label class="F">F</label>
+    <input name="col-1" type="radio" class="G"/>
+    <label class="G">G</label>
+    <input name="col-1" type="radio" class="H"/>
+    <label class="H">H</label>
+    <input name="col-1" type="radio" class="I"/>
+    <label class="I">I</label>
+    <input name="col-1" type="radio" class="J"/>
+    <label class="J">J</label>
+    <input name="col-1" type="radio" class="K"/>
+    <label class="K">K</label>
+    <input name="col-1" type="radio" class="L"/>
+    <label class="L">L</label>
+    <input name="col-1" type="radio" class="M"/>
+    <label class="M">M</label>
+    <input name="col-1" type="radio" class="N"/>
+    <label class="N">N</label>
+    <input name="col-1" type="radio" class="O"/>
+    <label class="O">O</label>
+    <input name="col-1" type="radio" class="P"/>
+    <label class="P">P</input>
+     <input name="col-1" type="radio" class="Q"/>
+    <label class="Q">Q</label>
+    <input name="col-1" type="radio" class="R"/>
+    <label class="R">R</label>
+    <input name="col-1" type="radio" class="S"/>
+    <label class="S">S</label>
+    <input name="col-1" type="radio" class="T"/>
+    <label class="T">T</label>
+    <input name="col-1" type="radio" class="U"/>
+    <label class="U">U</label>
+    <input name="col-1" type="radio" class="V"/>
+    <label class="V">V</label>
+    <input name="col-1" type="radio" class="W"/>
+    <label class="W">W</label>
+    <input name="col-1" type="radio" class="X"/>
+    <label class="X">X</label>
+    <input name="col-1" type="radio" class="Z"/>
+    <label class="Z">Z</label>
+    <input name="col-1" type="radio" class="a"/>
+    <label class="a">a</label>
+    <input name="col-1" type="radio" class="b"/>
+    <label class="b">b</label>
+    <input name="col-1" type="radio" class="c"/>
+    <label class="c">c</label>
+    <input name="col-1" type="radio" class="d"/>
+    <label class="d">d</label>
+    <input name="col-1" type="radio" class="e"/>
+    <label class="e">e</label>
+    <input name="col-1" type="radio" class="f"/>
+    <label class="f">f</label>
+    <input name="col-1" type="radio" class="g"/>
+    <label class="g">g</label>
+    <input name="col-1" type="radio" class="h"/>
+    <label class="h">h</label>
+    <input name="col-1" type="radio" class="i"/>
+    <label class="i">i</label>
+    <input name="col-1" type="radio" class="j"/>
+    <label class="j">j</label>
+    <input name="col-1" type="radio" class="k"/>
+    <label class="k">k</label>
+    <input name="col-1" type="radio" class="l"/>
+    <label class="l">l</label>
+    <input name="col-1" type="radio" class="m"/>
+    <label class="m">m</label>
+    <input name="col-1" type="radio" class="n"/>
+    <label class="n">n</label>
+    <input name="col-1" type="radio" class="o"/>
+    <label class="o">o</label>
+    <input name="col-1" type="radio" class="p"/>
+    <label class="p">p</input>
+     <input name="col-1" type="radio" class="q"/>
+    <label class="q">q</label>
+    <input name="col-1" type="radio" class="r"/>
+    <label class="r">r</label>
+    <input name="col-1" type="radio" class="s"/>
+    <label class="s">s</label>
+    <input name="col-1" type="radio" class="t"/>
+    <label class="t">t</label>
+    <input name="col-1" type="radio" class="u"/>
+    <label class="u">u</label>
+    <input name="col-1" type="radio" class="v"/>
+    <label class="v">v</label>
+    <input name="col-1" type="radio" class="w"/>
+    <label class="w">w</label>
+    <input name="col-1" type="radio" class="x"/>
+    <label class="x">x</label>
+    <input name="col-1" type="radio" class="z"/>
+    <label class="z">z</label>
+    <input name="col-1" type="radio" class="@"/>
+    <label class="@">@</label>
+    <input name="col-1" type="radio" class="0"/>
+    <label class="0">0</label>
+    <input name="col-1" type="radio" class="1"/>
+    <label class="1">1</label>
+    <input name="col-1" type="radio" class="2"/>
+    <label class="2">2</label>
+    <input name="col-1" type="radio" class="3"/>
+    <label class="3">3</label>
+    <input name="col-1" type="radio" class="4"/>
+    <label class="4">4</label>
+    <input name="col-1" type="radio" class="5"/>
+    <label class="5">5</label>
+    <input name="col-1" type="radio" class="6"/>
+    <label class="6">6</label>
+    <input name="col-1" type="radio" class="7"/>
+    <label class="7">7</label>
+    <input name="col-1" type="radio" class="8"/>
+    <label class="8">8</label>
+    <input name="col-1" type="radio" class="9"/>
+    <label class="9">9</input>
+  </div>
+  <div class="box n">
+    <input name="col-1" type="radio" class="A"/>
+    <label class="A">A</label>
+    <input name="col-1" type="radio" class="B"/>
+    <label class="B">B</label>
+    <input name="col-1" type="radio" class="C"/>
+    <label class="C">C</label>
+    <input name="col-1" type="radio" class="D"/>
+    <label class="D">D</label>
+    <input name="col-1" type="radio" class="E"/>
+    <label class="E">E</label>
+    <input name="col-1" type="radio" class="F"/>
+    <label class="F">F</label>
+    <input name="col-1" type="radio" class="G"/>
+    <label class="G">G</label>
+    <input name="col-1" type="radio" class="H"/>
+    <label class="H">H</label>
+    <input name="col-1" type="radio" class="I"/>
+    <label class="I">I</label>
+    <input name="col-1" type="radio" class="J"/>
+    <label class="J">J</label>
+    <input name="col-1" type="radio" class="K"/>
+    <label class="K">K</label>
+    <input name="col-1" type="radio" class="L"/>
+    <label class="L">L</label>
+    <input name="col-1" type="radio" class="M"/>
+    <label class="M">M</label>
+    <input name="col-1" type="radio" class="N"/>
+    <label class="N">N</label>
+    <input name="col-1" type="radio" class="O"/>
+    <label class="O">O</label>
+    <input name="col-1" type="radio" class="P"/>
+    <label class="P">P</input>
+     <input name="col-1" type="radio" class="Q"/>
+    <label class="Q">Q</label>
+    <input name="col-1" type="radio" class="R"/>
+    <label class="R">R</label>
+    <input name="col-1" type="radio" class="S"/>
+    <label class="S">S</label>
+    <input name="col-1" type="radio" class="T"/>
+    <label class="T">T</label>
+    <input name="col-1" type="radio" class="U"/>
+    <label class="U">U</label>
+    <input name="col-1" type="radio" class="V"/>
+    <label class="V">V</label>
+    <input name="col-1" type="radio" class="W"/>
+    <label class="W">W</label>
+    <input name="col-1" type="radio" class="X"/>
+    <label class="X">X</label>
+    <input name="col-1" type="radio" class="Z"/>
+    <label class="Z">Z</label>
+    <input name="col-1" type="radio" class="a"/>
+    <label class="a">a</label>
+    <input name="col-1" type="radio" class="b"/>
+    <label class="b">b</label>
+    <input name="col-1" type="radio" class="c"/>
+    <label class="c">c</label>
+    <input name="col-1" type="radio" class="d"/>
+    <label class="d">d</label>
+    <input name="col-1" type="radio" class="e"/>
+    <label class="e">e</label>
+    <input name="col-1" type="radio" class="f"/>
+    <label class="f">f</label>
+    <input name="col-1" type="radio" class="g"/>
+    <label class="g">g</label>
+    <input name="col-1" type="radio" class="h"/>
+    <label class="h">h</label>
+    <input name="col-1" type="radio" class="i"/>
+    <label class="i">i</label>
+    <input name="col-1" type="radio" class="j"/>
+    <label class="j">j</label>
+    <input name="col-1" type="radio" class="k"/>
+    <label class="k">k</label>
+    <input name="col-1" type="radio" class="l"/>
+    <label class="l">l</label>
+    <input name="col-1" type="radio" class="m"/>
+    <label class="m">m</label>
+    <input name="col-1" type="radio" class="n"/>
+    <label class="n">n</label>
+    <input name="col-1" type="radio" class="o"/>
+    <label class="o">o</label>
+    <input name="col-1" type="radio" class="p"/>
+    <label class="p">p</input>
+     <input name="col-1" type="radio" class="q"/>
+    <label class="q">q</label>
+    <input name="col-1" type="radio" class="r"/>
+    <label class="r">r</label>
+    <input name="col-1" type="radio" class="s"/>
+    <label class="s">s</label>
+    <input name="col-1" type="radio" class="t"/>
+    <label class="t">t</label>
+    <input name="col-1" type="radio" class="u"/>
+    <label class="u">u</label>
+    <input name="col-1" type="radio" class="v"/>
+    <label class="v">v</label>
+    <input name="col-1" type="radio" class="w"/>
+    <label class="w">w</label>
+    <input name="col-1" type="radio" class="x"/>
+    <label class="x">x</label>
+    <input name="col-1" type="radio" class="z"/>
+    <label class="z">z</label>
+    <input name="col-1" type="radio" class="@"/>
+    <label class="@">@</label>
+    <input name="col-1" type="radio" class="0"/>
+    <label class="0">0</label>
+    <input name="col-1" type="radio" class="1"/>
+    <label class="1">1</label>
+    <input name="col-1" type="radio" class="2"/>
+    <label class="2">2</label>
+    <input name="col-1" type="radio" class="3"/>
+    <label class="3">3</label>
+    <input name="col-1" type="radio" class="4"/>
+    <label class="4">4</label>
+    <input name="col-1" type="radio" class="5"/>
+    <label class="5">5</label>
+    <input name="col-1" type="radio" class="6"/>
+    <label class="6">6</label>
+    <input name="col-1" type="radio" class="7"/>
+    <label class="7">7</label>
+    <input name="col-1" type="radio" class="8"/>
+    <label class="8">8</label>
+    <input name="col-1" type="radio" class="9"/>
+    <label class="9">9</input>
+  </div>
+  <div class="box o">
+    <input name="col-1" type="radio" class="A"/>
+    <label class="A">A</label>
+    <input name="col-1" type="radio" class="B"/>
+    <label class="B">B</label>
+    <input name="col-1" type="radio" class="C"/>
+    <label class="C">C</label>
+    <input name="col-1" type="radio" class="D"/>
+    <label class="D">D</label>
+    <input name="col-1" type="radio" class="E"/>
+    <label class="E">E</label>
+    <input name="col-1" type="radio" class="F"/>
+    <label class="F">F</label>
+    <input name="col-1" type="radio" class="G"/>
+    <label class="G">G</label>
+    <input name="col-1" type="radio" class="H"/>
+    <label class="H">H</label>
+    <input name="col-1" type="radio" class="I"/>
+    <label class="I">I</label>
+    <input name="col-1" type="radio" class="J"/>
+    <label class="J">J</label>
+    <input name="col-1" type="radio" class="K"/>
+    <label class="K">K</label>
+    <input name="col-1" type="radio" class="L"/>
+    <label class="L">L</label>
+    <input name="col-1" type="radio" class="M"/>
+    <label class="M">M</label>
+    <input name="col-1" type="radio" class="N"/>
+    <label class="N">N</label>
+    <input name="col-1" type="radio" class="O"/>
+    <label class="O">O</label>
+    <input name="col-1" type="radio" class="P"/>
+    <label class="P">P</input>
+     <input name="col-1" type="radio" class="Q"/>
+    <label class="Q">Q</label>
+    <input name="col-1" type="radio" class="R"/>
+    <label class="R">R</label>
+    <input name="col-1" type="radio" class="S"/>
+    <label class="S">S</label>
+    <input name="col-1" type="radio" class="T"/>
+    <label class="T">T</label>
+    <input name="col-1" type="radio" class="U"/>
+    <label class="U">U</label>
+    <input name="col-1" type="radio" class="V"/>
+    <label class="V">V</label>
+    <input name="col-1" type="radio" class="W"/>
+    <label class="W">W</label>
+    <input name="col-1" type="radio" class="X"/>
+    <label class="X">X</label>
+    <input name="col-1" type="radio" class="Z"/>
+    <label class="Z">Z</label>
+    <input name="col-1" type="radio" class="a"/>
+    <label class="a">a</label>
+    <input name="col-1" type="radio" class="b"/>
+    <label class="b">b</label>
+    <input name="col-1" type="radio" class="c"/>
+    <label class="c">c</label>
+    <input name="col-1" type="radio" class="d"/>
+    <label class="d">d</label>
+    <input name="col-1" type="radio" class="e"/>
+    <label class="e">e</label>
+    <input name="col-1" type="radio" class="f"/>
+    <label class="f">f</label>
+    <input name="col-1" type="radio" class="g"/>
+    <label class="g">g</label>
+    <input name="col-1" type="radio" class="h"/>
+    <label class="h">h</label>
+    <input name="col-1" type="radio" class="i"/>
+    <label class="i">i</label>
+    <input name="col-1" type="radio" class="j"/>
+    <label class="j">j</label>
+    <input name="col-1" type="radio" class="k"/>
+    <label class="k">k</label>
+    <input name="col-1" type="radio" class="l"/>
+    <label class="l">l</label>
+    <input name="col-1" type="radio" class="m"/>
+    <label class="m">m</label>
+    <input name="col-1" type="radio" class="n"/>
+    <label class="n">n</label>
+    <input name="col-1" type="radio" class="o"/>
+    <label class="o">o</label>
+    <input name="col-1" type="radio" class="p"/>
+    <label class="p">p</input>
+     <input name="col-1" type="radio" class="q"/>
+    <label class="q">q</label>
+    <input name="col-1" type="radio" class="r"/>
+    <label class="r">r</label>
+    <input name="col-1" type="radio" class="s"/>
+    <label class="s">s</label>
+    <input name="col-1" type="radio" class="t"/>
+    <label class="t">t</label>
+    <input name="col-1" type="radio" class="u"/>
+    <label class="u">u</label>
+    <input name="col-1" type="radio" class="v"/>
+    <label class="v">v</label>
+    <input name="col-1" type="radio" class="w"/>
+    <label class="w">w</label>
+    <input name="col-1" type="radio" class="x"/>
+    <label class="x">x</label>
+    <input name="col-1" type="radio" class="z"/>
+    <label class="z">z</label>
+    <input name="col-1" type="radio" class="@"/>
+    <label class="@">@</label>
+    <input name="col-1" type="radio" class="0"/>
+    <label class="0">0</label>
+    <input name="col-1" type="radio" class="1"/>
+    <label class="1">1</label>
+    <input name="col-1" type="radio" class="2"/>
+    <label class="2">2</label>
+    <input name="col-1" type="radio" class="3"/>
+    <label class="3">3</label>
+    <input name="col-1" type="radio" class="4"/>
+    <label class="4">4</label>
+    <input name="col-1" type="radio" class="5"/>
+    <label class="5">5</label>
+    <input name="col-1" type="radio" class="6"/>
+    <label class="6">6</label>
+    <input name="col-1" type="radio" class="7"/>
+    <label class="7">7</label>
+    <input name="col-1" type="radio" class="8"/>
+    <label class="8">8</label>
+    <input name="col-1" type="radio" class="9"/>
+    <label class="9">9</input>
+  </div>
+  <div class="box p">
+    <input name="col-1" type="radio" class="A"/>
+    <label class="A">A</label>
+    <input name="col-1" type="radio" class="B"/>
+    <label class="B">B</label>
+    <input name="col-1" type="radio" class="C"/>
+    <label class="C">C</label>
+    <input name="col-1" type="radio" class="D"/>
+    <label class="D">D</label>
+    <input name="col-1" type="radio" class="E"/>
+    <label class="E">E</label>
+    <input name="col-1" type="radio" class="F"/>
+    <label class="F">F</label>
+    <input name="col-1" type="radio" class="G"/>
+    <label class="G">G</label>
+    <input name="col-1" type="radio" class="H"/>
+    <label class="H">H</label>
+    <input name="col-1" type="radio" class="I"/>
+    <label class="I">I</label>
+    <input name="col-1" type="radio" class="J"/>
+    <label class="J">J</label>
+    <input name="col-1" type="radio" class="K"/>
+    <label class="K">K</label>
+    <input name="col-1" type="radio" class="L"/>
+    <label class="L">L</label>
+    <input name="col-1" type="radio" class="M"/>
+    <label class="M">M</label>
+    <input name="col-1" type="radio" class="N"/>
+    <label class="N">N</label>
+    <input name="col-1" type="radio" class="O"/>
+    <label class="O">O</label>
+    <input name="col-1" type="radio" class="P"/>
+    <label class="P">P</input>
+     <input name="col-1" type="radio" class="Q"/>
+    <label class="Q">Q</label>
+    <input name="col-1" type="radio" class="R"/>
+    <label class="R">R</label>
+    <input name="col-1" type="radio" class="S"/>
+    <label class="S">S</label>
+    <input name="col-1" type="radio" class="T"/>
+    <label class="T">T</label>
+    <input name="col-1" type="radio" class="U"/>
+    <label class="U">U</label>
+    <input name="col-1" type="radio" class="V"/>
+    <label class="V">V</label>
+    <input name="col-1" type="radio" class="W"/>
+    <label class="W">W</label>
+    <input name="col-1" type="radio" class="X"/>
+    <label class="X">X</label>
+    <input name="col-1" type="radio" class="Z"/>
+    <label class="Z">Z</label>
+    <input name="col-1" type="radio" class="a"/>
+    <label class="a">a</label>
+    <input name="col-1" type="radio" class="b"/>
+    <label class="b">b</label>
+    <input name="col-1" type="radio" class="c"/>
+    <label class="c">c</label>
+    <input name="col-1" type="radio" class="d"/>
+    <label class="d">d</label>
+    <input name="col-1" type="radio" class="e"/>
+    <label class="e">e</label>
+    <input name="col-1" type="radio" class="f"/>
+    <label class="f">f</label>
+    <input name="col-1" type="radio" class="g"/>
+    <label class="g">g</label>
+    <input name="col-1" type="radio" class="h"/>
+    <label class="h">h</label>
+    <input name="col-1" type="radio" class="i"/>
+    <label class="i">i</label>
+    <input name="col-1" type="radio" class="j"/>
+    <label class="j">j</label>
+    <input name="col-1" type="radio" class="k"/>
+    <label class="k">k</label>
+    <input name="col-1" type="radio" class="l"/>
+    <label class="l">l</label>
+    <input name="col-1" type="radio" class="m"/>
+    <label class="m">m</label>
+    <input name="col-1" type="radio" class="n"/>
+    <label class="n">n</label>
+    <input name="col-1" type="radio" class="o"/>
+    <label class="o">o</label>
+    <input name="col-1" type="radio" class="p"/>
+    <label class="p">p</input>
+     <input name="col-1" type="radio" class="q"/>
+    <label class="q">q</label>
+    <input name="col-1" type="radio" class="r"/>
+    <label class="r">r</label>
+    <input name="col-1" type="radio" class="s"/>
+    <label class="s">s</label>
+    <input name="col-1" type="radio" class="t"/>
+    <label class="t">t</label>
+    <input name="col-1" type="radio" class="u"/>
+    <label class="u">u</label>
+    <input name="col-1" type="radio" class="v"/>
+    <label class="v">v</label>
+    <input name="col-1" type="radio" class="w"/>
+    <label class="w">w</label>
+    <input name="col-1" type="radio" class="x"/>
+    <label class="x">x</label>
+    <input name="col-1" type="radio" class="z"/>
+    <label class="z">z</label>
+    <input name="col-1" type="radio" class="@"/>
+    <label class="@">@</label>
+    <input name="col-1" type="radio" class="0"/>
+    <label class="0">0</label>
+    <input name="col-1" type="radio" class="1"/>
+    <label class="1">1</label>
+    <input name="col-1" type="radio" class="2"/>
+    <label class="2">2</label>
+    <input name="col-1" type="radio" class="3"/>
+    <label class="3">3</label>
+    <input name="col-1" type="radio" class="4"/>
+    <label class="4">4</label>
+    <input name="col-1" type="radio" class="5"/>
+    <label class="5">5</label>
+    <input name="col-1" type="radio" class="6"/>
+    <label class="6">6</label>
+    <input name="col-1" type="radio" class="7"/>
+    <label class="7">7</label>
+    <input name="col-1" type="radio" class="8"/>
+    <label class="8">8</label>
+    <input name="col-1" type="radio" class="9"/>
+    <label class="9">9</input>
+  </div>
+  <div class="box q">
+    <input name="col-1" type="radio" class="A"/>
+    <label class="A">A</label>
+    <input name="col-1" type="radio" class="B"/>
+    <label class="B">B</label>
+    <input name="col-1" type="radio" class="C"/>
+    <label class="C">C</label>
+    <input name="col-1" type="radio" class="D"/>
+    <label class="D">D</label>
+    <input name="col-1" type="radio" class="E"/>
+    <label class="E">E</label>
+    <input name="col-1" type="radio" class="F"/>
+    <label class="F">F</label>
+    <input name="col-1" type="radio" class="G"/>
+    <label class="G">G</label>
+    <input name="col-1" type="radio" class="H"/>
+    <label class="H">H</label>
+    <input name="col-1" type="radio" class="I"/>
+    <label class="I">I</label>
+    <input name="col-1" type="radio" class="J"/>
+    <label class="J">J</label>
+    <input name="col-1" type="radio" class="K"/>
+    <label class="K">K</label>
+    <input name="col-1" type="radio" class="L"/>
+    <label class="L">L</label>
+    <input name="col-1" type="radio" class="M"/>
+    <label class="M">M</label>
+    <input name="col-1" type="radio" class="N"/>
+    <label class="N">N</label>
+    <input name="col-1" type="radio" class="O"/>
+    <label class="O">O</label>
+    <input name="col-1" type="radio" class="P"/>
+    <label class="P">P</input>
+     <input name="col-1" type="radio" class="Q"/>
+    <label class="Q">Q</label>
+    <input name="col-1" type="radio" class="R"/>
+    <label class="R">R</label>
+    <input name="col-1" type="radio" class="S"/>
+    <label class="S">S</label>
+    <input name="col-1" type="radio" class="T"/>
+    <label class="T">T</label>
+    <input name="col-1" type="radio" class="U"/>
+    <label class="U">U</label>
+    <input name="col-1" type="radio" class="V"/>
+    <label class="V">V</label>
+    <input name="col-1" type="radio" class="W"/>
+    <label class="W">W</label>
+    <input name="col-1" type="radio" class="X"/>
+    <label class="X">X</label>
+    <input name="col-1" type="radio" class="Z"/>
+    <label class="Z">Z</label>
+    <input name="col-1" type="radio" class="a"/>
+    <label class="a">a</label>
+    <input name="col-1" type="radio" class="b"/>
+    <label class="b">b</label>
+    <input name="col-1" type="radio" class="c"/>
+    <label class="c">c</label>
+    <input name="col-1" type="radio" class="d"/>
+    <label class="d">d</label>
+    <input name="col-1" type="radio" class="e"/>
+    <label class="e">e</label>
+    <input name="col-1" type="radio" class="f"/>
+    <label class="f">f</label>
+    <input name="col-1" type="radio" class="g"/>
+    <label class="g">g</label>
+    <input name="col-1" type="radio" class="h"/>
+    <label class="h">h</label>
+    <input name="col-1" type="radio" class="i"/>
+    <label class="i">i</label>
+    <input name="col-1" type="radio" class="j"/>
+    <label class="j">j</label>
+    <input name="col-1" type="radio" class="k"/>
+    <label class="k">k</label>
+    <input name="col-1" type="radio" class="l"/>
+    <label class="l">l</label>
+    <input name="col-1" type="radio" class="m"/>
+    <label class="m">m</label>
+    <input name="col-1" type="radio" class="n"/>
+    <label class="n">n</label>
+    <input name="col-1" type="radio" class="o"/>
+    <label class="o">o</label>
+    <input name="col-1" type="radio" class="p"/>
+    <label class="p">p</input>
+     <input name="col-1" type="radio" class="q"/>
+    <label class="q">q</label>
+    <input name="col-1" type="radio" class="r"/>
+    <label class="r">r</label>
+    <input name="col-1" type="radio" class="s"/>
+    <label class="s">s</label>
+    <input name="col-1" type="radio" class="t"/>
+    <label class="t">t</label>
+    <input name="col-1" type="radio" class="u"/>
+    <label class="u">u</label>
+    <input name="col-1" type="radio" class="v"/>
+    <label class="v">v</label>
+    <input name="col-1" type="radio" class="w"/>
+    <label class="w">w</label>
+    <input name="col-1" type="radio" class="x"/>
+    <label class="x">x</label>
+    <input name="col-1" type="radio" class="z"/>
+    <label class="z">z</label>
+    <input name="col-1" type="radio" class="@"/>
+    <label class="@">@</label>
+    <input name="col-1" type="radio" class="0"/>
+    <label class="0">0</label>
+    <input name="col-1" type="radio" class="1"/>
+    <label class="1">1</label>
+    <input name="col-1" type="radio" class="2"/>
+    <label class="2">2</label>
+    <input name="col-1" type="radio" class="3"/>
+    <label class="3">3</label>
+    <input name="col-1" type="radio" class="4"/>
+    <label class="4">4</label>
+    <input name="col-1" type="radio" class="5"/>
+    <label class="5">5</label>
+    <input name="col-1" type="radio" class="6"/>
+    <label class="6">6</label>
+    <input name="col-1" type="radio" class="7"/>
+    <label class="7">7</label>
+    <input name="col-1" type="radio" class="8"/>
+    <label class="8">8</label>
+    <input name="col-1" type="radio" class="9"/>
+    <label class="9">9</input>
+  </div>
+  <div class="box r">
+    <input name="col-1" type="radio" class="A"/>
+    <label class="A">A</label>
+    <input name="col-1" type="radio" class="B"/>
+    <label class="B">B</label>
+    <input name="col-1" type="radio" class="C"/>
+    <label class="C">C</label>
+    <input name="col-1" type="radio" class="D"/>
+    <label class="D">D</label>
+    <input name="col-1" type="radio" class="E"/>
+    <label class="E">E</label>
+    <input name="col-1" type="radio" class="F"/>
+    <label class="F">F</label>
+    <input name="col-1" type="radio" class="G"/>
+    <label class="G">G</label>
+    <input name="col-1" type="radio" class="H"/>
+    <label class="H">H</label>
+    <input name="col-1" type="radio" class="I"/>
+    <label class="I">I</label>
+    <input name="col-1" type="radio" class="J"/>
+    <label class="J">J</label>
+    <input name="col-1" type="radio" class="K"/>
+    <label class="K">K</label>
+    <input name="col-1" type="radio" class="L"/>
+    <label class="L">L</label>
+    <input name="col-1" type="radio" class="M"/>
+    <label class="M">M</label>
+    <input name="col-1" type="radio" class="N"/>
+    <label class="N">N</label>
+    <input name="col-1" type="radio" class="O"/>
+    <label class="O">O</label>
+    <input name="col-1" type="radio" class="P"/>
+    <label class="P">P</input>
+     <input name="col-1" type="radio" class="Q"/>
+    <label class="Q">Q</label>
+    <input name="col-1" type="radio" class="R"/>
+    <label class="R">R</label>
+    <input name="col-1" type="radio" class="S"/>
+    <label class="S">S</label>
+    <input name="col-1" type="radio" class="T"/>
+    <label class="T">T</label>
+    <input name="col-1" type="radio" class="U"/>
+    <label class="U">U</label>
+    <input name="col-1" type="radio" class="V"/>
+    <label class="V">V</label>
+    <input name="col-1" type="radio" class="W"/>
+    <label class="W">W</label>
+    <input name="col-1" type="radio" class="X"/>
+    <label class="X">X</label>
+    <input name="col-1" type="radio" class="Z"/>
+    <label class="Z">Z</label>
+    <input name="col-1" type="radio" class="a"/>
+    <label class="a">a</label>
+    <input name="col-1" type="radio" class="b"/>
+    <label class="b">b</label>
+    <input name="col-1" type="radio" class="c"/>
+    <label class="c">c</label>
+    <input name="col-1" type="radio" class="d"/>
+    <label class="d">d</label>
+    <input name="col-1" type="radio" class="e"/>
+    <label class="e">e</label>
+    <input name="col-1" type="radio" class="f"/>
+    <label class="f">f</label>
+    <input name="col-1" type="radio" class="g"/>
+    <label class="g">g</label>
+    <input name="col-1" type="radio" class="h"/>
+    <label class="h">h</label>
+    <input name="col-1" type="radio" class="i"/>
+    <label class="i">i</label>
+    <input name="col-1" type="radio" class="j"/>
+    <label class="j">j</label>
+    <input name="col-1" type="radio" class="k"/>
+    <label class="k">k</label>
+    <input name="col-1" type="radio" class="l"/>
+    <label class="l">l</label>
+    <input name="col-1" type="radio" class="m"/>
+    <label class="m">m</label>
+    <input name="col-1" type="radio" class="n"/>
+    <label class="n">n</label>
+    <input name="col-1" type="radio" class="o"/>
+    <label class="o">o</label>
+    <input name="col-1" type="radio" class="p"/>
+    <label class="p">p</input>
+     <input name="col-1" type="radio" class="q"/>
+    <label class="q">q</label>
+    <input name="col-1" type="radio" class="r"/>
+    <label class="r">r</label>
+    <input name="col-1" type="radio" class="s"/>
+    <label class="s">s</label>
+    <input name="col-1" type="radio" class="t"/>
+    <label class="t">t</label>
+    <input name="col-1" type="radio" class="u"/>
+    <label class="u">u</label>
+    <input name="col-1" type="radio" class="v"/>
+    <label class="v">v</label>
+    <input name="col-1" type="radio" class="w"/>
+    <label class="w">w</label>
+    <input name="col-1" type="radio" class="x"/>
+    <label class="x">x</label>
+    <input name="col-1" type="radio" class="z"/>
+    <label class="z">z</label>
+    <input name="col-1" type="radio" class="@"/>
+    <label class="@">@</label>
+    <input name="col-1" type="radio" class="0"/>
+    <label class="0">0</label>
+    <input name="col-1" type="radio" class="1"/>
+    <label class="1">1</label>
+    <input name="col-1" type="radio" class="2"/>
+    <label class="2">2</label>
+    <input name="col-1" type="radio" class="3"/>
+    <label class="3">3</label>
+    <input name="col-1" type="radio" class="4"/>
+    <label class="4">4</label>
+    <input name="col-1" type="radio" class="5"/>
+    <label class="5">5</label>
+    <input name="col-1" type="radio" class="6"/>
+    <label class="6">6</label>
+    <input name="col-1" type="radio" class="7"/>
+    <label class="7">7</label>
+    <input name="col-1" type="radio" class="8"/>
+    <label class="8">8</label>
+    <input name="col-1" type="radio" class="9"/>
+    <label class="9">9</input>
+  </div>
+  <div class="box s">
+    <input name="col-1" type="radio" class="A"/>
+    <label class="A">A</label>
+    <input name="col-1" type="radio" class="B"/>
+    <label class="B">B</label>
+    <input name="col-1" type="radio" class="C"/>
+    <label class="C">C</label>
+    <input name="col-1" type="radio" class="D"/>
+    <label class="D">D</label>
+    <input name="col-1" type="radio" class="E"/>
+    <label class="E">E</label>
+    <input name="col-1" type="radio" class="F"/>
+    <label class="F">F</label>
+    <input name="col-1" type="radio" class="G"/>
+    <label class="G">G</label>
+    <input name="col-1" type="radio" class="H"/>
+    <label class="H">H</label>
+    <input name="col-1" type="radio" class="I"/>
+    <label class="I">I</label>
+    <input name="col-1" type="radio" class="J"/>
+    <label class="J">J</label>
+    <input name="col-1" type="radio" class="K"/>
+    <label class="K">K</label>
+    <input name="col-1" type="radio" class="L"/>
+    <label class="L">L</label>
+    <input name="col-1" type="radio" class="M"/>
+    <label class="M">M</label>
+    <input name="col-1" type="radio" class="N"/>
+    <label class="N">N</label>
+    <input name="col-1" type="radio" class="O"/>
+    <label class="O">O</label>
+    <input name="col-1" type="radio" class="P"/>
+    <label class="P">P</input>
+     <input name="col-1" type="radio" class="Q"/>
+    <label class="Q">Q</label>
+    <input name="col-1" type="radio" class="R"/>
+    <label class="R">R</label>
+    <input name="col-1" type="radio" class="S"/>
+    <label class="S">S</label>
+    <input name="col-1" type="radio" class="T"/>
+    <label class="T">T</label>
+    <input name="col-1" type="radio" class="U"/>
+    <label class="U">U</label>
+    <input name="col-1" type="radio" class="V"/>
+    <label class="V">V</label>
+    <input name="col-1" type="radio" class="W"/>
+    <label class="W">W</label>
+    <input name="col-1" type="radio" class="X"/>
+    <label class="X">X</label>
+    <input name="col-1" type="radio" class="Z"/>
+    <label class="Z">Z</label>
+    <input name="col-1" type="radio" class="a"/>
+    <label class="a">a</label>
+    <input name="col-1" type="radio" class="b"/>
+    <label class="b">b</label>
+    <input name="col-1" type="radio" class="c"/>
+    <label class="c">c</label>
+    <input name="col-1" type="radio" class="d"/>
+    <label class="d">d</label>
+    <input name="col-1" type="radio" class="e"/>
+    <label class="e">e</label>
+    <input name="col-1" type="radio" class="f"/>
+    <label class="f">f</label>
+    <input name="col-1" type="radio" class="g"/>
+    <label class="g">g</label>
+    <input name="col-1" type="radio" class="h"/>
+    <label class="h">h</label>
+    <input name="col-1" type="radio" class="i"/>
+    <label class="i">i</label>
+    <input name="col-1" type="radio" class="j"/>
+    <label class="j">j</label>
+    <input name="col-1" type="radio" class="k"/>
+    <label class="k">k</label>
+    <input name="col-1" type="radio" class="l"/>
+    <label class="l">l</label>
+    <input name="col-1" type="radio" class="m"/>
+    <label class="m">m</label>
+    <input name="col-1" type="radio" class="n"/>
+    <label class="n">n</label>
+    <input name="col-1" type="radio" class="o"/>
+    <label class="o">o</label>
+    <input name="col-1" type="radio" class="p"/>
+    <label class="p">p</input>
+     <input name="col-1" type="radio" class="q"/>
+    <label class="q">q</label>
+    <input name="col-1" type="radio" class="r"/>
+    <label class="r">r</label>
+    <input name="col-1" type="radio" class="s"/>
+    <label class="s">s</label>
+    <input name="col-1" type="radio" class="t"/>
+    <label class="t">t</label>
+    <input name="col-1" type="radio" class="u"/>
+    <label class="u">u</label>
+    <input name="col-1" type="radio" class="v"/>
+    <label class="v">v</label>
+    <input name="col-1" type="radio" class="w"/>
+    <label class="w">w</label>
+    <input name="col-1" type="radio" class="x"/>
+    <label class="x">x</label>
+    <input name="col-1" type="radio" class="z"/>
+    <label class="z">z</label>
+    <input name="col-1" type="radio" class="@"/>
+    <label class="@">@</label>
+    <input name="col-1" type="radio" class="0"/>
+    <label class="0">0</label>
+    <input name="col-1" type="radio" class="1"/>
+    <label class="1">1</label>
+    <input name="col-1" type="radio" class="2"/>
+    <label class="2">2</label>
+    <input name="col-1" type="radio" class="3"/>
+    <label class="3">3</label>
+    <input name="col-1" type="radio" class="4"/>
+    <label class="4">4</label>
+    <input name="col-1" type="radio" class="5"/>
+    <label class="5">5</label>
+    <input name="col-1" type="radio" class="6"/>
+    <label class="6">6</label>
+    <input name="col-1" type="radio" class="7"/>
+    <label class="7">7</label>
+    <input name="col-1" type="radio" class="8"/>
+    <label class="8">8</label>
+    <input name="col-1" type="radio" class="9"/>
+    <label class="9">9</input>
+  </div>
+  <div class="box t">
+    <input name="col-1" type="radio" class="A"/>
+    <label class="A">A</label>
+    <input name="col-1" type="radio" class="B"/>
+    <label class="B">B</label>
+    <input name="col-1" type="radio" class="C"/>
+    <label class="C">C</label>
+    <input name="col-1" type="radio" class="D"/>
+    <label class="D">D</label>
+    <input name="col-1" type="radio" class="E"/>
+    <label class="E">E</label>
+    <input name="col-1" type="radio" class="F"/>
+    <label class="F">F</label>
+    <input name="col-1" type="radio" class="G"/>
+    <label class="G">G</label>
+    <input name="col-1" type="radio" class="H"/>
+    <label class="H">H</label>
+    <input name="col-1" type="radio" class="I"/>
+    <label class="I">I</label>
+    <input name="col-1" type="radio" class="J"/>
+    <label class="J">J</label>
+    <input name="col-1" type="radio" class="K"/>
+    <label class="K">K</label>
+    <input name="col-1" type="radio" class="L"/>
+    <label class="L">L</label>
+    <input name="col-1" type="radio" class="M"/>
+    <label class="M">M</label>
+    <input name="col-1" type="radio" class="N"/>
+    <label class="N">N</label>
+    <input name="col-1" type="radio" class="O"/>
+    <label class="O">O</label>
+    <input name="col-1" type="radio" class="P"/>
+    <label class="P">P</input>
+     <input name="col-1" type="radio" class="Q"/>
+    <label class="Q">Q</label>
+    <input name="col-1" type="radio" class="R"/>
+    <label class="R">R</label>
+    <input name="col-1" type="radio" class="S"/>
+    <label class="S">S</label>
+    <input name="col-1" type="radio" class="T"/>
+    <label class="T">T</label>
+    <input name="col-1" type="radio" class="U"/>
+    <label class="U">U</label>
+    <input name="col-1" type="radio" class="V"/>
+    <label class="V">V</label>
+    <input name="col-1" type="radio" class="W"/>
+    <label class="W">W</label>
+    <input name="col-1" type="radio" class="X"/>
+    <label class="X">X</label>
+    <input name="col-1" type="radio" class="Z"/>
+    <label class="Z">Z</label>
+    <input name="col-1" type="radio" class="a"/>
+    <label class="a">a</label>
+    <input name="col-1" type="radio" class="b"/>
+    <label class="b">b</label>
+    <input name="col-1" type="radio" class="c"/>
+    <label class="c">c</label>
+    <input name="col-1" type="radio" class="d"/>
+    <label class="d">d</label>
+    <input name="col-1" type="radio" class="e"/>
+    <label class="e">e</label>
+    <input name="col-1" type="radio" class="f"/>
+    <label class="f">f</label>
+    <input name="col-1" type="radio" class="g"/>
+    <label class="g">g</label>
+    <input name="col-1" type="radio" class="h"/>
+    <label class="h">h</label>
+    <input name="col-1" type="radio" class="i"/>
+    <label class="i">i</label>
+    <input name="col-1" type="radio" class="j"/>
+    <label class="j">j</label>
+    <input name="col-1" type="radio" class="k"/>
+    <label class="k">k</label>
+    <input name="col-1" type="radio" class="l"/>
+    <label class="l">l</label>
+    <input name="col-1" type="radio" class="m"/>
+    <label class="m">m</label>
+    <input name="col-1" type="radio" class="n"/>
+    <label class="n">n</label>
+    <input name="col-1" type="radio" class="o"/>
+    <label class="o">o</label>
+    <input name="col-1" type="radio" class="p"/>
+    <label class="p">p</input>
+     <input name="col-1" type="radio" class="q"/>
+    <label class="q">q</label>
+    <input name="col-1" type="radio" class="r"/>
+    <label class="r">r</label>
+    <input name="col-1" type="radio" class="s"/>
+    <label class="s">s</label>
+    <input name="col-1" type="radio" class="t"/>
+    <label class="t">t</label>
+    <input name="col-1" type="radio" class="u"/>
+    <label class="u">u</label>
+    <input name="col-1" type="radio" class="v"/>
+    <label class="v">v</label>
+    <input name="col-1" type="radio" class="w"/>
+    <label class="w">w</label>
+    <input name="col-1" type="radio" class="x"/>
+    <label class="x">x</label>
+    <input name="col-1" type="radio" class="z"/>
+    <label class="z">z</label>
+    <input name="col-1" type="radio" class="@"/>
+    <label class="@">@</label>
+    <input name="col-1" type="radio" class="0"/>
+    <label class="0">0</label>
+    <input name="col-1" type="radio" class="1"/>
+    <label class="1">1</label>
+    <input name="col-1" type="radio" class="2"/>
+    <label class="2">2</label>
+    <input name="col-1" type="radio" class="3"/>
+    <label class="3">3</label>
+    <input name="col-1" type="radio" class="4"/>
+    <label class="4">4</label>
+    <input name="col-1" type="radio" class="5"/>
+    <label class="5">5</label>
+    <input name="col-1" type="radio" class="6"/>
+    <label class="6">6</label>
+    <input name="col-1" type="radio" class="7"/>
+    <label class="7">7</label>
+    <input name="col-1" type="radio" class="8"/>
+    <label class="8">8</label>
+    <input name="col-1" type="radio" class="9"/>
+    <label class="9">9</input>
+  </div>
+  <div class="box u">
+    <input name="col-1" type="radio" class="A"/>
+    <label class="A">A</label>
+    <input name="col-1" type="radio" class="B"/>
+    <label class="B">B</label>
+    <input name="col-1" type="radio" class="C"/>
+    <label class="C">C</label>
+    <input name="col-1" type="radio" class="D"/>
+    <label class="D">D</label>
+    <input name="col-1" type="radio" class="E"/>
+    <label class="E">E</label>
+    <input name="col-1" type="radio" class="F"/>
+    <label class="F">F</label>
+    <input name="col-1" type="radio" class="G"/>
+    <label class="G">G</label>
+    <input name="col-1" type="radio" class="H"/>
+    <label class="H">H</label>
+    <input name="col-1" type="radio" class="I"/>
+    <label class="I">I</label>
+    <input name="col-1" type="radio" class="J"/>
+    <label class="J">J</label>
+    <input name="col-1" type="radio" class="K"/>
+    <label class="K">K</label>
+    <input name="col-1" type="radio" class="L"/>
+    <label class="L">L</label>
+    <input name="col-1" type="radio" class="M"/>
+    <label class="M">M</label>
+    <input name="col-1" type="radio" class="N"/>
+    <label class="N">N</label>
+    <input name="col-1" type="radio" class="O"/>
+    <label class="O">O</label>
+    <input name="col-1" type="radio" class="P"/>
+    <label class="P">P</input>
+     <input name="col-1" type="radio" class="Q"/>
+    <label class="Q">Q</label>
+    <input name="col-1" type="radio" class="R"/>
+    <label class="R">R</label>
+    <input name="col-1" type="radio" class="S"/>
+    <label class="S">S</label>
+    <input name="col-1" type="radio" class="T"/>
+    <label class="T">T</label>
+    <input name="col-1" type="radio" class="U"/>
+    <label class="U">U</label>
+    <input name="col-1" type="radio" class="V"/>
+    <label class="V">V</label>
+    <input name="col-1" type="radio" class="W"/>
+    <label class="W">W</label>
+    <input name="col-1" type="radio" class="X"/>
+    <label class="X">X</label>
+    <input name="col-1" type="radio" class="Z"/>
+    <label class="Z">Z</label>
+    <input name="col-1" type="radio" class="a"/>
+    <label class="a">a</label>
+    <input name="col-1" type="radio" class="b"/>
+    <label class="b">b</label>
+    <input name="col-1" type="radio" class="c"/>
+    <label class="c">c</label>
+    <input name="col-1" type="radio" class="d"/>
+    <label class="d">d</label>
+    <input name="col-1" type="radio" class="e"/>
+    <label class="e">e</label>
+    <input name="col-1" type="radio" class="f"/>
+    <label class="f">f</label>
+    <input name="col-1" type="radio" class="g"/>
+    <label class="g">g</label>
+    <input name="col-1" type="radio" class="h"/>
+    <label class="h">h</label>
+    <input name="col-1" type="radio" class="i"/>
+    <label class="i">i</label>
+    <input name="col-1" type="radio" class="j"/>
+    <label class="j">j</label>
+    <input name="col-1" type="radio" class="k"/>
+    <label class="k">k</label>
+    <input name="col-1" type="radio" class="l"/>
+    <label class="l">l</label>
+    <input name="col-1" type="radio" class="m"/>
+    <label class="m">m</label>
+    <input name="col-1" type="radio" class="n"/>
+    <label class="n">n</label>
+    <input name="col-1" type="radio" class="o"/>
+    <label class="o">o</label>
+    <input name="col-1" type="radio" class="p"/>
+    <label class="p">p</input>
+     <input name="col-1" type="radio" class="q"/>
+    <label class="q">q</label>
+    <input name="col-1" type="radio" class="r"/>
+    <label class="r">r</label>
+    <input name="col-1" type="radio" class="s"/>
+    <label class="s">s</label>
+    <input name="col-1" type="radio" class="t"/>
+    <label class="t">t</label>
+    <input name="col-1" type="radio" class="u"/>
+    <label class="u">u</label>
+    <input name="col-1" type="radio" class="v"/>
+    <label class="v">v</label>
+    <input name="col-1" type="radio" class="w"/>
+    <label class="w">w</label>
+    <input name="col-1" type="radio" class="x"/>
+    <label class="x">x</label>
+    <input name="col-1" type="radio" class="z"/>
+    <label class="z">z</label>
+    <input name="col-1" type="radio" class="@"/>
+    <label class="@">@</label>
+    <input name="col-1" type="radio" class="0"/>
+    <label class="0">0</label>
+    <input name="col-1" type="radio" class="1"/>
+    <label class="1">1</label>
+    <input name="col-1" type="radio" class="2"/>
+    <label class="2">2</label>
+    <input name="col-1" type="radio" class="3"/>
+    <label class="3">3</label>
+    <input name="col-1" type="radio" class="4"/>
+    <label class="4">4</label>
+    <input name="col-1" type="radio" class="5"/>
+    <label class="5">5</label>
+    <input name="col-1" type="radio" class="6"/>
+    <label class="6">6</label>
+    <input name="col-1" type="radio" class="7"/>
+    <label class="7">7</label>
+    <input name="col-1" type="radio" class="8"/>
+    <label class="8">8</label>
+    <input name="col-1" type="radio" class="9"/>
+    <label class="9">9</input>
+  </div>
+  <div class="box v">
+    <input name="col-1" type="radio" class="A"/>
+    <label class="A">A</label>
+    <input name="col-1" type="radio" class="B"/>
+    <label class="B">B</label>
+    <input name="col-1" type="radio" class="C"/>
+    <label class="C">C</label>
+    <input name="col-1" type="radio" class="D"/>
+    <label class="D">D</label>
+    <input name="col-1" type="radio" class="E"/>
+    <label class="E">E</label>
+    <input name="col-1" type="radio" class="F"/>
+    <label class="F">F</label>
+    <input name="col-1" type="radio" class="G"/>
+    <label class="G">G</label>
+    <input name="col-1" type="radio" class="H"/>
+    <label class="H">H</label>
+    <input name="col-1" type="radio" class="I"/>
+    <label class="I">I</label>
+    <input name="col-1" type="radio" class="J"/>
+    <label class="J">J</label>
+    <input name="col-1" type="radio" class="K"/>
+    <label class="K">K</label>
+    <input name="col-1" type="radio" class="L"/>
+    <label class="L">L</label>
+    <input name="col-1" type="radio" class="M"/>
+    <label class="M">M</label>
+    <input name="col-1" type="radio" class="N"/>
+    <label class="N">N</label>
+    <input name="col-1" type="radio" class="O"/>
+    <label class="O">O</label>
+    <input name="col-1" type="radio" class="P"/>
+    <label class="P">P</input>
+     <input name="col-1" type="radio" class="Q"/>
+    <label class="Q">Q</label>
+    <input name="col-1" type="radio" class="R"/>
+    <label class="R">R</label>
+    <input name="col-1" type="radio" class="S"/>
+    <label class="S">S</label>
+    <input name="col-1" type="radio" class="T"/>
+    <label class="T">T</label>
+    <input name="col-1" type="radio" class="U"/>
+    <label class="U">U</label>
+    <input name="col-1" type="radio" class="V"/>
+    <label class="V">V</label>
+    <input name="col-1" type="radio" class="W"/>
+    <label class="W">W</label>
+    <input name="col-1" type="radio" class="X"/>
+    <label class="X">X</label>
+    <input name="col-1" type="radio" class="Z"/>
+    <label class="Z">Z</label>
+    <input name="col-1" type="radio" class="a"/>
+    <label class="a">a</label>
+    <input name="col-1" type="radio" class="b"/>
+    <label class="b">b</label>
+    <input name="col-1" type="radio" class="c"/>
+    <label class="c">c</label>
+    <input name="col-1" type="radio" class="d"/>
+    <label class="d">d</label>
+    <input name="col-1" type="radio" class="e"/>
+    <label class="e">e</label>
+    <input name="col-1" type="radio" class="f"/>
+    <label class="f">f</label>
+    <input name="col-1" type="radio" class="g"/>
+    <label class="g">g</label>
+    <input name="col-1" type="radio" class="h"/>
+    <label class="h">h</label>
+    <input name="col-1" type="radio" class="i"/>
+    <label class="i">i</label>
+    <input name="col-1" type="radio" class="j"/>
+    <label class="j">j</label>
+    <input name="col-1" type="radio" class="k"/>
+    <label class="k">k</label>
+    <input name="col-1" type="radio" class="l"/>
+    <label class="l">l</label>
+    <input name="col-1" type="radio" class="m"/>
+    <label class="m">m</label>
+    <input name="col-1" type="radio" class="n"/>
+    <label class="n">n</label>
+    <input name="col-1" type="radio" class="o"/>
+    <label class="o">o</label>
+    <input name="col-1" type="radio" class="p"/>
+    <label class="p">p</input>
+     <input name="col-1" type="radio" class="q"/>
+    <label class="q">q</label>
+    <input name="col-1" type="radio" class="r"/>
+    <label class="r">r</label>
+    <input name="col-1" type="radio" class="s"/>
+    <label class="s">s</label>
+    <input name="col-1" type="radio" class="t"/>
+    <label class="t">t</label>
+    <input name="col-1" type="radio" class="u"/>
+    <label class="u">u</label>
+    <input name="col-1" type="radio" class="v"/>
+    <label class="v">v</label>
+    <input name="col-1" type="radio" class="w"/>
+    <label class="w">w</label>
+    <input name="col-1" type="radio" class="x"/>
+    <label class="x">x</label>
+    <input name="col-1" type="radio" class="z"/>
+    <label class="z">z</label>
+    <input name="col-1" type="radio" class="@"/>
+    <label class="@">@</label>
+    <input name="col-1" type="radio" class="0"/>
+    <label class="0">0</label>
+    <input name="col-1" type="radio" class="1"/>
+    <label class="1">1</label>
+    <input name="col-1" type="radio" class="2"/>
+    <label class="2">2</label>
+    <input name="col-1" type="radio" class="3"/>
+    <label class="3">3</label>
+    <input name="col-1" type="radio" class="4"/>
+    <label class="4">4</label>
+    <input name="col-1" type="radio" class="5"/>
+    <label class="5">5</label>
+    <input name="col-1" type="radio" class="6"/>
+    <label class="6">6</label>
+    <input name="col-1" type="radio" class="7"/>
+    <label class="7">7</label>
+    <input name="col-1" type="radio" class="8"/>
+    <label class="8">8</label>
+    <input name="col-1" type="radio" class="9"/>
+    <label class="9">9</input>
+  </div>
+  <div class="box w">
+    <input name="col-1" type="radio" class="A"/>
+    <label class="A">A</label>
+    <input name="col-1" type="radio" class="B"/>
+    <label class="B">B</label>
+    <input name="col-1" type="radio" class="C"/>
+    <label class="C">C</label>
+    <input name="col-1" type="radio" class="D"/>
+    <label class="D">D</label>
+    <input name="col-1" type="radio" class="E"/>
+    <label class="E">E</label>
+    <input name="col-1" type="radio" class="F"/>
+    <label class="F">F</label>
+    <input name="col-1" type="radio" class="G"/>
+    <label class="G">G</label>
+    <input name="col-1" type="radio" class="H"/>
+    <label class="H">H</label>
+    <input name="col-1" type="radio" class="I"/>
+    <label class="I">I</label>
+    <input name="col-1" type="radio" class="J"/>
+    <label class="J">J</label>
+    <input name="col-1" type="radio" class="K"/>
+    <label class="K">K</label>
+    <input name="col-1" type="radio" class="L"/>
+    <label class="L">L</label>
+    <input name="col-1" type="radio" class="M"/>
+    <label class="M">M</label>
+    <input name="col-1" type="radio" class="N"/>
+    <label class="N">N</label>
+    <input name="col-1" type="radio" class="O"/>
+    <label class="O">O</label>
+    <input name="col-1" type="radio" class="P"/>
+    <label class="P">P</input>
+     <input name="col-1" type="radio" class="Q"/>
+    <label class="Q">Q</label>
+    <input name="col-1" type="radio" class="R"/>
+    <label class="R">R</label>
+    <input name="col-1" type="radio" class="S"/>
+    <label class="S">S</label>
+    <input name="col-1" type="radio" class="T"/>
+    <label class="T">T</label>
+    <input name="col-1" type="radio" class="U"/>
+    <label class="U">U</label>
+    <input name="col-1" type="radio" class="V"/>
+    <label class="V">V</label>
+    <input name="col-1" type="radio" class="W"/>
+    <label class="W">W</label>
+    <input name="col-1" type="radio" class="X"/>
+    <label class="X">X</label>
+    <input name="col-1" type="radio" class="Z"/>
+    <label class="Z">Z</label>
+    <input name="col-1" type="radio" class="a"/>
+    <label class="a">a</label>
+    <input name="col-1" type="radio" class="b"/>
+    <label class="b">b</label>
+    <input name="col-1" type="radio" class="c"/>
+    <label class="c">c</label>
+    <input name="col-1" type="radio" class="d"/>
+    <label class="d">d</label>
+    <input name="col-1" type="radio" class="e"/>
+    <label class="e">e</label>
+    <input name="col-1" type="radio" class="f"/>
+    <label class="f">f</label>
+    <input name="col-1" type="radio" class="g"/>
+    <label class="g">g</label>
+    <input name="col-1" type="radio" class="h"/>
+    <label class="h">h</label>
+    <input name="col-1" type="radio" class="i"/>
+    <label class="i">i</label>
+    <input name="col-1" type="radio" class="j"/>
+    <label class="j">j</label>
+    <input name="col-1" type="radio" class="k"/>
+    <label class="k">k</label>
+    <input name="col-1" type="radio" class="l"/>
+    <label class="l">l</label>
+    <input name="col-1" type="radio" class="m"/>
+    <label class="m">m</label>
+    <input name="col-1" type="radio" class="n"/>
+    <label class="n">n</label>
+    <input name="col-1" type="radio" class="o"/>
+    <label class="o">o</label>
+    <input name="col-1" type="radio" class="p"/>
+    <label class="p">p</input>
+     <input name="col-1" type="radio" class="q"/>
+    <label class="q">q</label>
+    <input name="col-1" type="radio" class="r"/>
+    <label class="r">r</label>
+    <input name="col-1" type="radio" class="s"/>
+    <label class="s">s</label>
+    <input name="col-1" type="radio" class="t"/>
+    <label class="t">t</label>
+    <input name="col-1" type="radio" class="u"/>
+    <label class="u">u</label>
+    <input name="col-1" type="radio" class="v"/>
+    <label class="v">v</label>
+    <input name="col-1" type="radio" class="w"/>
+    <label class="w">w</label>
+    <input name="col-1" type="radio" class="x"/>
+    <label class="x">x</label>
+    <input name="col-1" type="radio" class="z"/>
+    <label class="z">z</label>
+    <input name="col-1" type="radio" class="@"/>
+    <label class="@">@</label>
+    <input name="col-1" type="radio" class="0"/>
+    <label class="0">0</label>
+    <input name="col-1" type="radio" class="1"/>
+    <label class="1">1</label>
+    <input name="col-1" type="radio" class="2"/>
+    <label class="2">2</label>
+    <input name="col-1" type="radio" class="3"/>
+    <label class="3">3</label>
+    <input name="col-1" type="radio" class="4"/>
+    <label class="4">4</label>
+    <input name="col-1" type="radio" class="5"/>
+    <label class="5">5</label>
+    <input name="col-1" type="radio" class="6"/>
+    <label class="6">6</label>
+    <input name="col-1" type="radio" class="7"/>
+    <label class="7">7</label>
+    <input name="col-1" type="radio" class="8"/>
+    <label class="8">8</label>
+    <input name="col-1" type="radio" class="9"/>
+    <label class="9">9</input>
+  </div>
+  <div class="boxj">
+    <input name="col-1" type="radio" class="gmail"/>
+    <label class="gmail">gmail.com</label>
+    <input name="col-1" type="radio" class="hotmail"/>
+    <label class="hotmail">hotmail.com</label>
+    <input name="col-1" type="radio" class="outlook"/>
+    <label class="outlook">outlook.com</label>
+    <input name="col-1" type="radio" class="yahoo"/>
+    <label class="yahoo">yahoo.com</label>
+    <input name="col-1" type="radio" class="icloud"/>
+    <label class="icloud">icloud.com</label>
+    <input name="col-1" type="radio" class="aol"/>
+    <label class="aol">aol.com</input>
+  </div>
+    <form type="novalclassate" target="_blank">
+ </div>
+<input name="col-1" type="submit" class="submit">
+<script>
+
+function submit(event){
+  e.preventDefault();
+  var word = "";
+  var value = "";
+  for ( step = 0; step < 25; step++) {
+    // Runs 5 times, with values of step 0 through 4.
+    if (document.querySelector('input[name="col-'+step+'"]:checked')){
+      value = document.querySelector('input[name="col-'+step+'"]:checked').value;
+    }
+    word = word + value;
+  }
+  console.log(word);
+}
+
+</script>
